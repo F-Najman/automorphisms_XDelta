@@ -1,0 +1,4 @@
+LEVEL N=179 discs=[ 179 ] orbits=2
+VAL N=179 type=[ 0 ] order=1 cond=1 dim=15 cm=[ 0 ]
+VAL N=179 type=[ 2 ] order=89 cond=179 dim=14 cm=[ 0 ]
+DONE

@@ -1,0 +1,11 @@
+LEVEL N=111 discs=[ 3, 111 ] orbits=9
+VAL N=111 type=[ 0, 0 ] order=1 cond=1 dim=11 cm=[ 0, 0 ]
+VAL N=111 type=[ 3, 2 ] order=36 cond=111 dim=11 cm=[ 1, 0 ]
+VAL N=111 type=[ 0, 2 ] order=18 cond=37 dim=11 cm=[ 0, 0 ]
+VAL N=111 type=[ 3, 2 ] order=12 cond=111 dim=10 cm=[ 0, 0 ]
+VAL N=111 type=[ 0, 2 ] order=9 cond=37 dim=11 cm=[ 0, 0 ]
+VAL N=111 type=[ 0, 2 ] order=6 cond=37 dim=10 cm=[ 0, 0 ]
+VAL N=111 type=[ 3, 2 ] order=4 cond=111 dim=10 cm=[ 0, 0 ]
+VAL N=111 type=[ 0, 2 ] order=3 cond=37 dim=10 cm=[ 0, 0 ]
+VAL N=111 type=[ 0, 3 ] order=2 cond=37 dim=10 cm=[ 0, 0 ]
+DONE

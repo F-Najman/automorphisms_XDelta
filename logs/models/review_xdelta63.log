@@ -1,0 +1,9 @@
+Loading "lib.m"
+Canonical quadratic model: dimension 1, degree 16, 21 quadrics.
+X_Delta2(63): genus 9, quadrics 21
+dim of Gamma_0 part: 5
+dim of chi part: 4
+delta preserves the canonical ideal: true
+|Aut X_Delta2(63)| = 96
+Exact group operations: diamond central in group of order 96.
+ALL CHECKS PASSED

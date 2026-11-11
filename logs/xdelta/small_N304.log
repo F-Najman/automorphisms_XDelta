@@ -1,0 +1,13 @@
+ORBIT N=304 order=1 conductor=1 size=1 dim=35 cmproxy=0
+ORBIT N=304 order=2 conductor=8 size=1 dim=36 cmproxy=0
+ORBIT N=304 order=3 conductor=19 size=2 dim=34 cmproxy=0
+ORBIT N=304 order=2 conductor=76 size=1 dim=34 cmproxy=6
+ORBIT N=304 order=2 conductor=152 size=1 dim=36 cmproxy=4
+CHECK N=304 (partial genus, characters of order <= 3) 209
+DELTA N=304 gens=[ 229, 191, 97 ] idx=1 genus=35 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=false OK
+DELTA N=304 gens=[ 293, 113, 191 ] idx=3 genus=103 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=true OK
+DELTA N=304 gens=[ 137, 113, 191 ] idx=2 genus=71 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=true OK
+DELTA N=304 gens=[ 59, 303 ] idx=2 genus=69 cmproxy=6 C1=true C3_l=3 C3p_l=3 C2=true OK
+DELTA N=304 gens=[ 173, 303 ] idx=2 genus=71 cmproxy=4 C1=true C3_l=3 C3p_l=3 C2=true OK
+SUMMARY N=304 ok=5 fail=0
+DONE

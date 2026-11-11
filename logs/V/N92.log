@@ -1,0 +1,6 @@
+LEVEL N=92 discs=[ 4, 23 ] orbits=4
+VAL N=92 type=[ 0, 0 ] order=1 cond=1 dim=10 cm=[ 0, 0 ]
+VAL N=92 type=[ 1, 2 ] order=22 cond=92 dim=10 cm=[ 0, 0 ]
+VAL N=92 type=[ 0, 2 ] order=11 cond=23 dim=9 cm=[ 0, 0 ]
+VAL N=92 type=[ 1, 3 ] order=2 cond=92 dim=10 cm=[ 0, 6 ]
+DONE

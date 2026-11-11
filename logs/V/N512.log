@@ -1,0 +1,6 @@
+LEVEL N=512 discs=[ 4, 8 ] orbits=4
+VAL N=512 type=[ 0 ] order=1 cond=1 dim=49 cm=[ 13, 12 ]
+VAL N=512 type=[ 6 ] order=8 cond=32 dim=48 cm=[ 0, 0 ]
+VAL N=512 type=[ 4 ] order=4 cond=16 dim=48 cm=[ 4, 0 ]
+VAL N=512 type=[ 2 ] order=2 cond=8 dim=48 cm=[ 10, 18 ]
+DONE

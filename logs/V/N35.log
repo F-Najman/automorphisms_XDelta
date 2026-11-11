@@ -1,0 +1,8 @@
+LEVEL N=35 discs=[ 7, 35 ] orbits=6
+VAL N=35 type=[ 0, 0 ] order=1 cond=1 dim=3 cm=[ 0, 0 ]
+VAL N=35 type=[ 3, 0 ] order=2 cond=5 dim=2 cm=[ 0, 0 ]
+VAL N=35 type=[ 2, 2 ] order=12 cond=35 dim=2 cm=[ 0, 0 ]
+VAL N=35 type=[ 0, 2 ] order=3 cond=7 dim=2 cm=[ 0, 0 ]
+VAL N=35 type=[ 3, 2 ] order=6 cond=35 dim=2 cm=[ 0, 0 ]
+VAL N=35 type=[ 2, 3 ] order=4 cond=35 dim=2 cm=[ 0, 0 ]
+DONE

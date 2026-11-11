@@ -1,0 +1,12 @@
+LEVEL N=170 discs=[] orbits=10
+VAL N=170 type=[ 0, 0, 0 ] order=1 cond=1 dim=23 cm=[]
+VAL N=170 type=[ 0, 3, 0 ] order=2 cond=5 dim=24 cm=[]
+VAL N=170 type=[ 0, 2, 2 ] order=16 cond=85 dim=23 cm=[]
+VAL N=170 type=[ 0, 2, 2 ] order=16 cond=85 dim=23 cm=[]
+VAL N=170 type=[ 0, 0, 2 ] order=8 cond=17 dim=24 cm=[]
+VAL N=170 type=[ 0, 3, 2 ] order=8 cond=85 dim=22 cm=[]
+VAL N=170 type=[ 0, 0, 2 ] order=4 cond=17 dim=22 cm=[]
+VAL N=170 type=[ 0, 3, 2 ] order=4 cond=85 dim=24 cm=[]
+VAL N=170 type=[ 0, 0, 3 ] order=2 cond=17 dim=22 cm=[]
+VAL N=170 type=[ 0, 3, 3 ] order=2 cond=85 dim=24 cm=[]
+DONE

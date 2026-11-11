@@ -1,0 +1,2 @@
+PERDELTA_FAIL N=360 gens=[ 353, 359, 181 ] idx=2 sum=15.000000
+PERDELTA N=360 subgroups=53 fail=1

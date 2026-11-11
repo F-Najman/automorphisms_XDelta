@@ -1,0 +1,3 @@
+PERDELTA_FAIL N=324 gens=[ 89, 163 ] idx=3 sum=21.000000
+PERDELTA_FAIL N=324 gens=[ 239 ] idx=2 sum=31.000000
+PERDELTA N=324 subgroups=7 fail=2

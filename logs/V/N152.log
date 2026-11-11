@@ -1,0 +1,14 @@
+LEVEL N=152 discs=[ 4, 8, 19, 152 ] orbits=12
+VAL N=152 type=[ 0, 0 ] order=1 cond=1 dim=17 cm=[ 0, 0, 0, 0 ]
+VAL N=152 type=[ 2, 0 ] order=2 cond=8 dim=18 cm=[ 0, 0, 0, 0 ]
+VAL N=152 type=[ 1, 2 ] order=18 cond=76 dim=16 cm=[ 0, 0, 0, 0 ]
+VAL N=152 type=[ 3, 2 ] order=18 cond=152 dim=18 cm=[ 0, 2, 0, 0 ]
+VAL N=152 type=[ 0, 2 ] order=9 cond=19 dim=16 cm=[ 0, 0, 0, 0 ]
+VAL N=152 type=[ 2, 2 ] order=18 cond=152 dim=18 cm=[ 0, 0, 0, 0 ]
+VAL N=152 type=[ 1, 2 ] order=6 cond=76 dim=16 cm=[ 0, 0, 0, 0 ]
+VAL N=152 type=[ 3, 2 ] order=6 cond=152 dim=18 cm=[ 0, 2, 0, 0 ]
+VAL N=152 type=[ 0, 2 ] order=3 cond=19 dim=16 cm=[ 0, 0, 0, 0 ]
+VAL N=152 type=[ 2, 2 ] order=6 cond=152 dim=18 cm=[ 0, 0, 0, 0 ]
+VAL N=152 type=[ 1, 3 ] order=2 cond=76 dim=16 cm=[ 0, 0, 0, 0 ]
+VAL N=152 type=[ 3, 3 ] order=2 cond=152 dim=18 cm=[ 0, 2, 0, 0 ]
+DONE

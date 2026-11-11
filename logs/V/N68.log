@@ -1,0 +1,7 @@
+LEVEL N=68 discs=[ 4, 68 ] orbits=5
+VAL N=68 type=[ 0, 0 ] order=1 cond=1 dim=7 cm=[ 0, 0 ]
+VAL N=68 type=[ 1, 2 ] order=16 cond=68 dim=7 cm=[ 1, 0 ]
+VAL N=68 type=[ 0, 2 ] order=8 cond=17 dim=6 cm=[ 0, 0 ]
+VAL N=68 type=[ 0, 2 ] order=4 cond=17 dim=6 cm=[ 0, 0 ]
+VAL N=68 type=[ 0, 3 ] order=2 cond=17 dim=6 cm=[ 0, 0 ]
+DONE

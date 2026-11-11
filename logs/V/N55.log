@@ -1,0 +1,8 @@
+LEVEL N=55 discs=[ 11, 55 ] orbits=6
+VAL N=55 type=[ 0, 0 ] order=1 cond=1 dim=5 cm=[ 0, 0 ]
+VAL N=55 type=[ 3, 0 ] order=2 cond=5 dim=4 cm=[ 0, 0 ]
+VAL N=55 type=[ 2, 2 ] order=20 cond=55 dim=4 cm=[ 0, 0 ]
+VAL N=55 type=[ 0, 2 ] order=5 cond=11 dim=4 cm=[ 0, 0 ]
+VAL N=55 type=[ 3, 2 ] order=10 cond=55 dim=4 cm=[ 0, 0 ]
+VAL N=55 type=[ 2, 3 ] order=4 cond=55 dim=4 cm=[ 2, 0 ]
+DONE

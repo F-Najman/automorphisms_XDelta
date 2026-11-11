@@ -1,0 +1,5 @@
+PERDELTA_FAIL N=864 gens=[ 841, 161, 703 ] idx=2 sum=23.000000
+PERDELTA_FAIL N=864 gens=[ 515, 863 ] idx=2 sum=175.00000
+PERDELTA_FAIL N=864 gens=[ 461, 863 ] idx=2 sum=7.0000000
+PERDELTA_FAIL N=864 gens=[ 841, 863 ] idx=4 sum=47.000000
+PERDELTA N=864 subgroups=32 fail=4

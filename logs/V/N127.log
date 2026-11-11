@@ -1,0 +1,8 @@
+LEVEL N=127 discs=[ 127 ] orbits=6
+VAL N=127 type=[ 0 ] order=1 cond=1 dim=10 cm=[ 0 ]
+VAL N=127 type=[ 2 ] order=63 cond=127 dim=10 cm=[ 0 ]
+VAL N=127 type=[ 2 ] order=21 cond=127 dim=9 cm=[ 0 ]
+VAL N=127 type=[ 2 ] order=9 cond=127 dim=10 cm=[ 0 ]
+VAL N=127 type=[ 2 ] order=7 cond=127 dim=9 cm=[ 0 ]
+VAL N=127 type=[ 2 ] order=3 cond=127 dim=9 cm=[ 0 ]
+DONE

@@ -1,0 +1,6 @@
+LEVEL N=1152 discs=[ 3, 4, 8, 24 ] orbits=4
+VAL N=1152 type=[ 0, 0 ] order=1 cond=1 dim=161 cm=[ 14, 30, 0, 0 ]
+VAL N=1152 type=[ 2, 0 ] order=2 cond=8 dim=160 cm=[ 8, 12, 24, 20 ]
+VAL N=1152 type=[ 1, 3 ] order=2 cond=12 dim=160 cm=[ 24, 28, 0, 0 ]
+VAL N=1152 type=[ 3, 3 ] order=2 cond=24 dim=160 cm=[ 16, 8, 40, 24 ]
+DONE

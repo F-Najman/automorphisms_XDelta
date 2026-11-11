@@ -1,0 +1,8 @@
+LEVEL N=60 discs=[ 3, 4, 15, 20 ] orbits=6
+VAL N=60 type=[ 0, 0, 0 ] order=1 cond=1 dim=7 cm=[ 0, 0, 0, 0 ]
+VAL N=60 type=[ 1, 3, 0 ] order=2 cond=12 dim=8 cm=[ 0, 0, 0, 0 ]
+VAL N=60 type=[ 1, 0, 2 ] order=4 cond=20 dim=8 cm=[ 0, 2, 0, 0 ]
+VAL N=60 type=[ 0, 3, 2 ] order=4 cond=15 dim=6 cm=[ 0, 0, 0, 0 ]
+VAL N=60 type=[ 0, 0, 3 ] order=2 cond=5 dim=6 cm=[ 0, 0, 0, 0 ]
+VAL N=60 type=[ 1, 3, 3 ] order=2 cond=60 dim=8 cm=[ 0, 0, 4, 4 ]
+DONE

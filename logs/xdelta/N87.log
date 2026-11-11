@@ -1,0 +1,15 @@
+ORBIT N=87 order=1 conductor=1 size=1 dim=9 cmproxy=0
+ORBIT N=87 order=28 conductor=87 size=12 dim=8 cmproxy=0
+ORBIT N=87 order=14 conductor=29 size=6 dim=8 cmproxy=0
+ORBIT N=87 order=7 conductor=29 size=6 dim=8 cmproxy=0
+ORBIT N=87 order=4 conductor=87 size=2 dim=8 cmproxy=0
+ORBIT N=87 order=2 conductor=29 size=1 dim=8 cmproxy=0
+CHECK N=87 genus(X_1)=225
+DELTA N=87 gens=[ 31, 59 ] idx=1 genus=9 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=87 gens=[ 4, 59 ] idx=2 genus=17 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=87 gens=[ 70, 59 ] idx=7 genus=57 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=87 gens=[ 28, 59 ] idx=14 genus=113 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=87 gens=[ 71 ] idx=4 genus=33 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=87 gens=[ 86 ] idx=28 genus=225 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+SUMMARY N=87 ok=6 fail=0
+DONE

@@ -1,0 +1,11 @@
+ORBIT N=188 order=1 conductor=1 size=1 dim=22 cmproxy=0
+ORBIT N=188 order=46 conductor=188 size=22 dim=22 cmproxy=0
+ORBIT N=188 order=23 conductor=47 size=22 dim=21 cmproxy=0
+ORBIT N=188 order=2 conductor=188 size=1 dim=22 cmproxy=10
+CHECK N=188 genus(X_1)=990
+DELTA N=188 gens=[ 5, 95 ] idx=1 genus=22 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=false OK
+DELTA N=188 gens=[ 93, 95 ] idx=23 genus=484 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=true OK
+DELTA N=188 gens=[ 163 ] idx=2 genus=44 cmproxy=10 C1=true C3_l=3 C3p_l=3 C2=false OK
+DELTA N=188 gens=[ 187 ] idx=46 genus=990 cmproxy=10 C1=true C3_l=3 C3p_l=3 C2=true OK
+SUMMARY N=188 ok=4 fail=0
+DONE

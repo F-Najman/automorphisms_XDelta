@@ -1,0 +1,39 @@
+ORBIT N=171 order=1 conductor=1 size=1 dim=17 cmproxy=0
+ORBIT N=171 order=3 conductor=9 size=2 dim=18 cmproxy=0
+ORBIT N=171 order=18 conductor=171 size=6 dim=18 cmproxy=0
+ORBIT N=171 order=18 conductor=57 size=6 dim=16 cmproxy=2
+ORBIT N=171 order=18 conductor=171 size=6 dim=18 cmproxy=0
+ORBIT N=171 order=9 conductor=19 size=6 dim=16 cmproxy=1
+ORBIT N=171 order=9 conductor=171 size=6 dim=18 cmproxy=0
+ORBIT N=171 order=9 conductor=171 size=6 dim=18 cmproxy=0
+ORBIT N=171 order=6 conductor=171 size=2 dim=18 cmproxy=0
+ORBIT N=171 order=6 conductor=57 size=2 dim=16 cmproxy=0
+ORBIT N=171 order=6 conductor=171 size=2 dim=18 cmproxy=0
+ORBIT N=171 order=3 conductor=19 size=2 dim=16 cmproxy=0
+ORBIT N=171 order=3 conductor=171 size=2 dim=18 cmproxy=0
+ORBIT N=171 order=3 conductor=171 size=2 dim=18 cmproxy=0
+ORBIT N=171 order=6 conductor=171 size=2 dim=18 cmproxy=0
+ORBIT N=171 order=2 conductor=57 size=1 dim=16 cmproxy=4
+CHECK N=171 genus(X_1)=937
+DELTA N=171 gens=[ 154, 20 ] idx=1 genus=17 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=171 gens=[ 46, 20 ] idx=3 genus=49 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=171 gens=[ 113, 37 ] idx=9 genus=145 cmproxy=6 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=171 gens=[ 86, 115 ] idx=2 genus=33 cmproxy=4 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=171 gens=[ 122, 64 ] idx=6 genus=97 cmproxy=4 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=171 gens=[ 113 ] idx=18 genus=289 cmproxy=22 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=171 gens=[ 154, 134 ] idx=3 genus=53 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=171 gens=[ 79, 170 ] idx=3 genus=53 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=171 gens=[ 5, 170 ] idx=3 genus=53 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=171 gens=[ 46, 134 ] idx=9 genus=157 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=171 gens=[ 140, 37 ] idx=9 genus=157 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=171 gens=[ 122, 37 ] idx=9 genus=157 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=171 gens=[ 37, 134 ] idx=27 genus=469 cmproxy=6 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=171 gens=[ 86 ] idx=6 genus=105 cmproxy=4 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=171 gens=[ 53 ] idx=6 genus=105 cmproxy=4 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=171 gens=[ 41 ] idx=6 genus=105 cmproxy=4 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=171 gens=[ 50 ] idx=18 genus=313 cmproxy=4 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=171 gens=[ 107 ] idx=18 genus=313 cmproxy=4 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=171 gens=[ 122 ] idx=18 genus=313 cmproxy=4 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=171 gens=[ 170 ] idx=54 genus=937 cmproxy=22 C1=true C3_l=2 C3p_l=2 C2=true OK
+SUMMARY N=171 ok=20 fail=0
+DONE

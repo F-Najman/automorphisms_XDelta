@@ -1,0 +1,5 @@
+LEVEL N=1024 discs=[ 4, 8 ] orbits=3
+VAL N=1024 type=[ 0 ] order=1 cond=1 dim=105 cm=[ 21, 20 ]
+VAL N=1024 type=[ 4 ] order=4 cond=16 dim=104 cm=[ 12, 8 ]
+VAL N=1024 type=[ 2 ] order=2 cond=8 dim=104 cm=[ 18, 26 ]
+DONE

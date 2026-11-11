@@ -1,0 +1,14 @@
+LEVEL N=200 discs=[ 4, 8, 20, 40 ] orbits=12
+VAL N=200 type=[ 0, 0 ] order=1 cond=1 dim=19 cm=[ 0, 0, 0, 0 ]
+VAL N=200 type=[ 2, 0 ] order=2 cond=8 dim=24 cm=[ 0, 0, 0, 0 ]
+VAL N=200 type=[ 1, 4 ] order=20 cond=100 dim=26 cm=[ 2, 0, 0, 0 ]
+VAL N=200 type=[ 3, 4 ] order=20 cond=200 dim=28 cm=[ 0, 0, 0, 0 ]
+VAL N=200 type=[ 0, 4 ] order=10 cond=25 dim=26 cm=[ 0, 0, 0, 0 ]
+VAL N=200 type=[ 2, 4 ] order=10 cond=200 dim=28 cm=[ 0, 0, 0, 0 ]
+VAL N=200 type=[ 0, 4 ] order=5 cond=25 dim=26 cm=[ 0, 0, 0, 0 ]
+VAL N=200 type=[ 2, 4 ] order=10 cond=200 dim=28 cm=[ 0, 0, 0, 0 ]
+VAL N=200 type=[ 1, 2 ] order=4 cond=20 dim=18 cm=[ 6, 0, 4, 0 ]
+VAL N=200 type=[ 3, 2 ] order=4 cond=40 dim=24 cm=[ 0, 6, 0, 2 ]
+VAL N=200 type=[ 0, 3 ] order=2 cond=5 dim=18 cm=[ 0, 0, 0, 0 ]
+VAL N=200 type=[ 2, 3 ] order=2 cond=40 dim=24 cm=[ 0, 0, 0, 0 ]
+DONE

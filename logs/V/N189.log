@@ -1,0 +1,18 @@
+LEVEL N=189 discs=[ 3, 7 ] orbits=16
+VAL N=189 type=[ 0, 0 ] order=1 cond=1 dim=19 cm=[ 2, 0 ]
+VAL N=189 type=[ 6, 0 ] order=9 cond=27 dim=22 cm=[ 0, 0 ]
+VAL N=189 type=[ 4, 0 ] order=3 cond=9 dim=18 cm=[ 0, 0 ]
+VAL N=189 type=[ 6, 2 ] order=18 cond=189 dim=22 cm=[ 0, 0 ]
+VAL N=189 type=[ 4, 2 ] order=6 cond=63 dim=18 cm=[ 0, 0 ]
+VAL N=189 type=[ 6, 2 ] order=18 cond=189 dim=22 cm=[ 0, 0 ]
+VAL N=189 type=[ 3, 2 ] order=6 cond=21 dim=18 cm=[ 4, 0 ]
+VAL N=189 type=[ 4, 2 ] order=6 cond=63 dim=18 cm=[ 0, 0 ]
+VAL N=189 type=[ 0, 2 ] order=3 cond=7 dim=18 cm=[ 3, 0 ]
+VAL N=189 type=[ 6, 2 ] order=9 cond=189 dim=22 cm=[ 0, 0 ]
+VAL N=189 type=[ 6, 2 ] order=9 cond=189 dim=22 cm=[ 0, 0 ]
+VAL N=189 type=[ 4, 2 ] order=3 cond=63 dim=18 cm=[ 0, 0 ]
+VAL N=189 type=[ 4, 2 ] order=3 cond=63 dim=18 cm=[ 0, 0 ]
+VAL N=189 type=[ 6, 3 ] order=18 cond=189 dim=22 cm=[ 0, 0 ]
+VAL N=189 type=[ 4, 3 ] order=6 cond=63 dim=18 cm=[ 0, 0 ]
+VAL N=189 type=[ 3, 3 ] order=2 cond=21 dim=18 cm=[ 2, 8 ]
+DONE

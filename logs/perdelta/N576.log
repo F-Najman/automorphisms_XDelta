@@ -1,0 +1,5 @@
+PERDELTA_FAIL N=576 gens=[ 25, 161, 127 ] idx=2 sum=55.000000
+PERDELTA_FAIL N=576 gens=[ 347, 287 ] idx=2 sum=167.00000
+PERDELTA_FAIL N=576 gens=[ 5, 287 ] idx=2 sum=103.00000
+PERDELTA_FAIL N=576 gens=[ 25, 287 ] idx=4 sum=199.00000
+PERDELTA N=576 subgroups=27 fail=4

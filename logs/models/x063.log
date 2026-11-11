@@ -1,0 +1,5 @@
+Loading "lib.m"
+X_0(63): genus 5, 3 quadrics, genus of model 5
+cusp points distinct: true
+|Aut X_0(63) over F_(127^2)| = 48
+automorphisms preserving the set of cusps: 24 ; preserving the branch cusps {1/3,2/3,10/21,-4/21}: 4

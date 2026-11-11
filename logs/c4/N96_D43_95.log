@@ -1,0 +1,5 @@
+N=96 Delta=43,95 discs=[ 3, 4, 8, 24 ] primes inert in all CM fields (<=600): [ 23, 47, 71, 167, 191, 239, 263, 311, 359, 383, 431, 479, 503, 599 ]
+ORBIT cond=1 order=1 size=1 dim=9 cmproxy_by_D=[ 0, 2, 0, 0 ]
+ORBIT cond=24 order=2 size=1 dim=8 cmproxy_by_D=[ 0, 0, 8, 0 ]
+C4CHECK N=96 Delta=43,95 Delta'=[ 37, 65, 31 ] index=2 g'=9 cm'(bound)=[ 0, 2, 0, 0 ] cm_complement=[ 0, 0, 8, 0 ] overlapD=[] coprime_any_p=5 coprime_inert_p=0 C1(X_Delta')=true : NCM+C1
+DONE

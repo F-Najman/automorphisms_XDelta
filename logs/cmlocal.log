@@ -1,0 +1,18 @@
+3 Lam(p,1) = 4.0 expected max(4, 2+sqrt p) = 4 | Lam(p,2) = 13.196 expected p+5+3sqrt p = 13.196
+5 Lam(p,1) = 4.236 expected max(4, 2+sqrt p) = 4.236 | Lam(p,2) = 16.708 expected p+5+3sqrt p = 16.708
+7 Lam(p,1) = 4.646 expected max(4, 2+sqrt p) = 4.646 | Lam(p,2) = 19.937 expected p+5+3sqrt p = 19.937
+11 Lam(p,1) = 5.317 expected max(4, 2+sqrt p) = 5.317 | Lam(p,2) = 25.95 expected p+5+3sqrt p = 25.95
+p=2 e=1 Lam=4.00 ratio=1.333
+p=2 e=2 Lam=10.00 ratio=1.667
+p=2 e=3 Lam=20.00 ratio=1.667
+p=2 e=4 Lam=36.00 ratio=1.500
+p=2 e=5 Lam=66.00 ratio=1.375
+p=2 e=6 Lam=118.00 ratio=1.229
+p=2 e=7 Lam=194.00 ratio=1.010
+p=2 e=8 Lam=321.31 ratio=0.837
+p=3 e=1 ratio=1.000  p=5 ratio=0.706  p=7 ratio=0.581
+p=3 e=2 ratio=1.100  p=5 ratio=0.557  p=7 ratio=0.356
+p=3 e=3 ratio=0.940  p=5 ratio=0.336  p=7 ratio=0.173
+p=3 e=4 ratio=0.664  p=5 ratio=0.167  p=7 ratio=0.069
+p=3 e=5 ratio=0.442  p=5 ratio=0.082  p=7 ratio=0.028
+p=3 e=6 ratio=0.274  p=5 ratio=0.037  p=7 ratio=0.010

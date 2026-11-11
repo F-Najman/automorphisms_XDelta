@@ -1,0 +1,8 @@
+LEVEL N=45 discs=[ 3, 15 ] orbits=6
+VAL N=45 type=[ 0, 0 ] order=1 cond=1 dim=3 cm=[ 0, 0 ]
+VAL N=45 type=[ 4, 0 ] order=3 cond=9 dim=4 cm=[ 0, 0 ]
+VAL N=45 type=[ 4, 2 ] order=12 cond=45 dim=4 cm=[ 0, 0 ]
+VAL N=45 type=[ 3, 2 ] order=4 cond=15 dim=2 cm=[ 0, 0 ]
+VAL N=45 type=[ 0, 3 ] order=2 cond=5 dim=2 cm=[ 0, 2 ]
+VAL N=45 type=[ 4, 3 ] order=6 cond=45 dim=4 cm=[ 0, 0 ]
+DONE

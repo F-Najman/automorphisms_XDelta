@@ -1,0 +1,4 @@
+PERDELTA_FAIL N=384 gens=[ 133, 383 ] idx=2 sum=15.000000
+PERDELTA_FAIL N=384 gens=[ 187, 383 ] idx=2 sum=55.000000
+PERDELTA_FAIL N=384 gens=[ 25, 383 ] idx=4 sum=71.000000
+PERDELTA N=384 subgroups=16 fail=3

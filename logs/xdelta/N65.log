@@ -1,0 +1,31 @@
+ORBIT N=65 order=1 conductor=1 size=1 dim=5 cmproxy=0
+ORBIT N=65 order=2 conductor=5 size=1 dim=6 cmproxy=0
+ORBIT N=65 order=12 conductor=65 size=4 dim=5 cmproxy=0
+ORBIT N=65 order=12 conductor=65 size=4 dim=5 cmproxy=0
+ORBIT N=65 order=6 conductor=13 size=2 dim=6 cmproxy=0
+ORBIT N=65 order=6 conductor=65 size=2 dim=4 cmproxy=0
+ORBIT N=65 order=4 conductor=65 size=2 dim=5 cmproxy=0
+ORBIT N=65 order=4 conductor=65 size=2 dim=5 cmproxy=0
+ORBIT N=65 order=3 conductor=13 size=2 dim=4 cmproxy=0
+ORBIT N=65 order=6 conductor=65 size=2 dim=6 cmproxy=0
+ORBIT N=65 order=2 conductor=13 size=1 dim=6 cmproxy=0
+ORBIT N=65 order=2 conductor=65 size=1 dim=4 cmproxy=0
+CHECK N=65 genus(X_1)=121
+DELTA N=65 gens=[ 41, 27 ] idx=1 genus=5 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=65 gens=[ 43, 64 ] idx=2 genus=11 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=65 gens=[ 21, 27 ] idx=3 genus=13 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=65 gens=[ 38, 51 ] idx=6 genus=31 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=65 gens=[ 41, 14 ] idx=2 genus=11 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=65 gens=[ 33, 14 ] idx=2 genus=9 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=65 gens=[ 56, 14 ] idx=4 genus=21 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=65 gens=[ 21, 14 ] idx=6 genus=31 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=65 gens=[ 8, 51 ] idx=6 genus=25 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=65 gens=[ 51, 14 ] idx=12 genus=61 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=65 gens=[ 33 ] idx=4 genus=19 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=65 gens=[ 28 ] idx=4 genus=19 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=65 gens=[ 49 ] idx=8 genus=41 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=65 gens=[ 18 ] idx=12 genus=55 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=65 gens=[ 8 ] idx=12 genus=55 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=65 gens=[ 64 ] idx=24 genus=121 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+SUMMARY N=65 ok=16 fail=0
+DONE

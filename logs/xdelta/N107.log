@@ -1,0 +1,7 @@
+ORBIT N=107 order=1 conductor=1 size=1 dim=9 cmproxy=0
+ORBIT N=107 order=53 conductor=107 size=52 dim=8 cmproxy=0
+CHECK N=107 genus(X_1)=425
+DELTA N=107 gens=[ 2 ] idx=1 genus=9 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=107 gens=[ 106 ] idx=53 genus=425 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+SUMMARY N=107 ok=2 fail=0
+DONE

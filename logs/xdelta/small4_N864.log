@@ -1,0 +1,18 @@
+ORBIT N=864 order=1 conductor=1 size=1 dim=121 cmproxy=36
+ORBIT N=864 order=4 conductor=16 size=2 dim=132 cmproxy=0
+ORBIT N=864 order=2 conductor=8 size=1 dim=120 cmproxy=32
+ORBIT N=864 order=3 conductor=9 size=2 dim=120 cmproxy=0
+ORBIT N=864 order=2 conductor=12 size=1 dim=120 cmproxy=44
+ORBIT N=864 order=4 conductor=48 size=2 dim=132 cmproxy=0
+ORBIT N=864 order=2 conductor=24 size=1 dim=120 cmproxy=24
+CHECK N=864 (partial genus, characters of order <= 4) 1249
+DELTA N=864 gens=[ 325, 353, 703 ] idx=1 genus=121 cmproxy=36 C1=true C3_l=5 C3p_l=5 C2=true OK
+DELTA N=864 gens=[ 629, 161, 703 ] idx=3 genus=361 cmproxy=36 C1=true C3_l=5 C3p_l=5 C2=true OK
+DELTA N=864 gens=[ 841, 161, 703 ] idx=2 genus=241 cmproxy=68 C1=true C3_l=5 C3p_l=5 C2=true OK
+DELTA N=864 gens=[ 529, 161, 703 ] idx=4 genus=505 cmproxy=68 C1=true C3_l=5 C3p_l=5 C2=true OK
+DELTA N=864 gens=[ 515, 863 ] idx=2 genus=241 cmproxy=80 C1=true C3_l=5 C3p_l=5 C2=true OK
+DELTA N=864 gens=[ 461, 863 ] idx=2 genus=241 cmproxy=60 C1=true C3_l=5 C3p_l=5 C2=true OK
+DELTA N=864 gens=[ 841, 863 ] idx=4 genus=481 cmproxy=136 C1=true C3_l=5 C3p_l=5 C2=true OK
+DELTA N=864 gens=[ 679, 863 ] idx=4 genus=505 cmproxy=68 C1=true C3_l=5 C3p_l=5 C2=true OK
+SUMMARY N=864 ok=8 fail=0
+DONE

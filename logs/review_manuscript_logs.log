@@ -1,0 +1,6 @@
+canon2 runs: 32 logs, 28 Table 1 curves and X_1(N) for N in [21, 22, 24, 30].
+All runs: (g-2)(g-3)/2 quadrics, model genus = g, no hyperelliptic reduction, point count = ell + 1 - tr T_ell.
+max genus 10; largest m with phi(m) <= 400 is 1680 < 2000.
+f(11,1) = 0.97424829303111
+f(11,2)/f(11,1) = 0.6856487114832083
+REVIEW LOG CHECKS COMPLETED

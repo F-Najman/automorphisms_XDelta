@@ -1,0 +1,13 @@
+ORBIT N=68 order=1 conductor=1 size=1 dim=7 cmproxy=0
+ORBIT N=68 order=16 conductor=68 size=8 dim=7 cmproxy=1
+ORBIT N=68 order=8 conductor=17 size=4 dim=6 cmproxy=0
+ORBIT N=68 order=4 conductor=17 size=2 dim=6 cmproxy=0
+ORBIT N=68 order=2 conductor=17 size=1 dim=6 cmproxy=0
+CHECK N=68 genus(X_1)=105
+DELTA N=68 gens=[ 37, 35 ] idx=1 genus=7 cmproxy=0 C1=true C3_l=7 C3p_l=7 C2=false OK
+DELTA N=68 gens=[ 9, 35 ] idx=2 genus=13 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=false OK
+DELTA N=68 gens=[ 13, 35 ] idx=4 genus=25 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=false OK
+DELTA N=68 gens=[ 33, 35 ] idx=8 genus=49 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=false OK
+DELTA N=68 gens=[ 67 ] idx=16 genus=105 cmproxy=8 C1=true C3_l=3 C3p_l=3 C2=true OK
+SUMMARY N=68 ok=5 fail=0
+DONE

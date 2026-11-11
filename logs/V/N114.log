@@ -1,0 +1,8 @@
+LEVEL N=114 discs=[ 3, 19 ] orbits=6
+VAL N=114 type=[ 0, 0, 0 ] order=1 cond=1 dim=17 cm=[ 0, 0 ]
+VAL N=114 type=[ 0, 3, 2 ] order=18 cond=57 dim=16 cm=[ 2, 0 ]
+VAL N=114 type=[ 0, 0, 2 ] order=9 cond=19 dim=16 cm=[ 0, 0 ]
+VAL N=114 type=[ 0, 3, 2 ] order=6 cond=57 dim=16 cm=[ 0, 0 ]
+VAL N=114 type=[ 0, 0, 2 ] order=3 cond=19 dim=16 cm=[ 0, 0 ]
+VAL N=114 type=[ 0, 3, 3 ] order=2 cond=57 dim=16 cm=[ 0, 0 ]
+DONE

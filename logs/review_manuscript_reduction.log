@@ -1,0 +1,35 @@
+Loading "lib.m"
+N=24 ell=193 g=3 |Delta|=4 integral=true rank_mod_ell=3 OK
+N=24 ell=193 g=3 |Delta|=4 integral=true rank_mod_ell=3 OK
+N=25 ell=101 g=4 |Delta|=4 integral=true rank_mod_ell=4 OK
+N=26 ell=131 g=4 |Delta|=6 integral=true rank_mod_ell=4 OK
+N=26 ell=131 g=4 |Delta|=4 integral=true rank_mod_ell=4 OK
+N=28 ell=113 g=4 |Delta|=4 integral=true rank_mod_ell=4 OK
+N=28 ell=113 g=4 |Delta|=6 integral=true rank_mod_ell=4 OK
+N=30 ell=151 g=5 |Delta|=4 integral=true rank_mod_ell=5 OK
+N=31 ell=311 g=6 |Delta|=6 integral=true rank_mod_ell=6 OK
+N=32 ell=193 g=5 |Delta|=4 integral=true rank_mod_ell=5 OK
+N=33 ell=199 g=5 |Delta|=10 integral=true rank_mod_ell=5 OK
+N=36 ell=109 g=7 |Delta|=4 integral=true rank_mod_ell=7 OK
+N=36 ell=109 g=3 |Delta|=6 integral=true rank_mod_ell=3 OK
+N=40 ell=241 g=7 |Delta|=8 integral=true rank_mod_ell=7 OK
+N=40 ell=241 g=5 |Delta|=8 integral=true rank_mod_ell=5 OK
+N=42 ell=127 g=9 |Delta|=6 integral=true rank_mod_ell=9 OK
+N=44 ell=353 g=8 |Delta|=10 integral=true rank_mod_ell=8 OK
+N=45 ell=181 g=5 |Delta|=12 integral=true rank_mod_ell=5 OK
+N=48 ell=193 g=7 |Delta|=8 integral=true rank_mod_ell=7 OK
+N=48 ell=193 g=7 |Delta|=8 integral=true rank_mod_ell=7 OK
+N=48 ell=193 g=5 |Delta|=8 integral=true rank_mod_ell=5 OK
+N=49 ell=197 g=3 |Delta|=14 integral=true rank_mod_ell=3 OK
+N=50 ell=101 g=4 |Delta|=10 integral=true rank_mod_ell=4 OK
+N=54 ell=109 g=10 |Delta|=6 integral=true rank_mod_ell=10 OK
+N=56 ell=113 g=9 |Delta|=12 integral=true rank_mod_ell=9 OK
+N=64 ell=193 g=5 |Delta|=16 integral=true rank_mod_ell=5 OK
+N=72 ell=433 g=9 |Delta|=12 integral=true rank_mod_ell=9 OK
+N=37 ell=149 g=4 |Delta|=12 integral=true rank_mod_ell=4 OK
+N=21 ell=127 g=5 |Delta|=2 integral=true rank_mod_ell=5 OK
+N=22 ell=199 g=6 |Delta|=2 integral=true rank_mod_ell=6 OK
+N=30 ell=151 g=9 |Delta|=2 integral=true rank_mod_ell=9 OK
+N=24 ell=193 g=5 |Delta|=2 integral=true rank_mod_ell=5 OK
+RUNS 32 FAILURES 0
+ALL REDUCTION CHECKS PASSED

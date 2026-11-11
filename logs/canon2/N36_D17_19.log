@@ -1,0 +1,14 @@
+Loading "lib.m"
+N=36 Delta=[ 1, 17, 19, 35 ] |Delta|=4 mu=216
+genus g=7
+Atkin-Lehner Q with iota_Q(Delta)=Delta: [ 1, 4, 9, 36 ] ; |B_Delta| = 12
+ell=109 (ell mod N = 1)
+Tr(T_ell) = -58, predicted #X(F_ell) = 168
+root-of-unity orders among Frobenius ratios: [] ; endomorphisms of J over Fbar_ell defined over F_{ell^1}
+number of quadrics: 10  (non-hyperelliptic expects 10)
+dim of quadric intersection: 1
+curve built; checking genus... (0.140 s)
+genus of model over F_ell: 7
+#C(F_ell) = 168 (predicted 168)
+computing AutomorphismGroup over GF(109^1)... (0.220 s)
+RESULT N=36 Delta=[ 1, 17, 19, 35 ] g=7 ell=109 k=1 : |Aut(X_Fbar)| = 36, |B_Delta| = 12, group S3^2 (328.470 s)

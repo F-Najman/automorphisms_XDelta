@@ -1,0 +1,11 @@
+ORBIT N=173 order=1 conductor=1 size=1 dim=14 cmproxy=0
+ORBIT N=173 order=86 conductor=173 size=42 dim=14 cmproxy=0
+ORBIT N=173 order=43 conductor=173 size=42 dim=13 cmproxy=0
+ORBIT N=173 order=2 conductor=173 size=1 dim=14 cmproxy=0
+CHECK N=173 genus(X_1)=1162
+DELTA N=173 gens=[ 2 ] idx=1 genus=14 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=173 gens=[ 4 ] idx=2 genus=28 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=173 gens=[ 80 ] idx=43 genus=560 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=173 gens=[ 172 ] idx=86 genus=1162 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+SUMMARY N=173 ok=4 fail=0
+DONE

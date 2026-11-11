@@ -1,0 +1,8 @@
+LEVEL N=199 discs=[ 199 ] orbits=6
+VAL N=199 type=[ 0 ] order=1 cond=1 dim=16 cm=[ 0 ]
+VAL N=199 type=[ 2 ] order=99 cond=199 dim=16 cm=[ 0 ]
+VAL N=199 type=[ 2 ] order=33 cond=199 dim=15 cm=[ 0 ]
+VAL N=199 type=[ 2 ] order=11 cond=199 dim=15 cm=[ 0 ]
+VAL N=199 type=[ 2 ] order=9 cond=199 dim=16 cm=[ 0 ]
+VAL N=199 type=[ 2 ] order=3 cond=199 dim=15 cm=[ 0 ]
+DONE

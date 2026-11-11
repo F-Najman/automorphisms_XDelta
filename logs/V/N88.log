@@ -1,0 +1,10 @@
+LEVEL N=88 discs=[ 4, 8, 11, 88 ] orbits=8
+VAL N=88 type=[ 0, 0 ] order=1 cond=1 dim=9 cm=[ 0, 0, 0, 0 ]
+VAL N=88 type=[ 2, 0 ] order=2 cond=8 dim=10 cm=[ 0, 0, 0, 0 ]
+VAL N=88 type=[ 1, 2 ] order=10 cond=44 dim=8 cm=[ 0, 0, 0, 0 ]
+VAL N=88 type=[ 3, 2 ] order=10 cond=88 dim=10 cm=[ 0, 2, 0, 0 ]
+VAL N=88 type=[ 0, 2 ] order=5 cond=11 dim=8 cm=[ 0, 0, 0, 0 ]
+VAL N=88 type=[ 2, 2 ] order=10 cond=88 dim=10 cm=[ 0, 0, 0, 0 ]
+VAL N=88 type=[ 1, 3 ] order=2 cond=44 dim=8 cm=[ 0, 0, 0, 0 ]
+VAL N=88 type=[ 3, 3 ] order=2 cond=88 dim=10 cm=[ 0, 2, 0, 0 ]
+DONE

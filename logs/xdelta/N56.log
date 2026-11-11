@@ -1,0 +1,21 @@
+ORBIT N=56 order=1 conductor=1 size=1 dim=5 cmproxy=0
+ORBIT N=56 order=2 conductor=8 size=1 dim=6 cmproxy=0
+ORBIT N=56 order=6 conductor=28 size=2 dim=4 cmproxy=0
+ORBIT N=56 order=6 conductor=56 size=2 dim=6 cmproxy=0
+ORBIT N=56 order=3 conductor=7 size=2 dim=4 cmproxy=0
+ORBIT N=56 order=6 conductor=56 size=2 dim=6 cmproxy=0
+ORBIT N=56 order=2 conductor=28 size=1 dim=4 cmproxy=4
+ORBIT N=56 order=2 conductor=56 size=1 dim=6 cmproxy=2
+CHECK N=56 genus(X_1)=61
+DELTA N=56 gens=[ 17, 29, 15 ] idx=1 genus=5 cmproxy=0 C1=true C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=56 gens=[ 41, 29, 15 ] idx=3 genus=13 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=false OK
+DELTA N=56 gens=[ 17, 15 ] idx=2 genus=11 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=false OK
+DELTA N=56 gens=[ 41, 15 ] idx=6 genus=31 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=false OK
+DELTA N=56 gens=[ 31, 29 ] idx=2 genus=9 cmproxy=4 C1=false C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=56 gens=[ 55, 29 ] idx=6 genus=25 cmproxy=4 C1=true C3_l=3 C3p_l=3 C2=false OK
+DELTA N=56 gens=[ 47, 13 ] idx=2 genus=11 cmproxy=2 C1=true C3_l=3 C3p_l=3 C2=false OK
+DELTA N=56 gens=[ 55, 13 ] idx=6 genus=31 cmproxy=2 C1=true C3_l=3 C3p_l=3 C2=false OK
+DELTA N=56 gens=[ 31 ] idx=4 genus=21 cmproxy=6 C1=true C3_l=3 C3p_l=3 C2=false OK
+DELTA N=56 gens=[ 55 ] idx=12 genus=61 cmproxy=6 C1=true C3_l=3 C3p_l=3 C2=true OK
+SUMMARY N=56 ok=8 fail=2
+DONE

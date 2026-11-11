@@ -1,0 +1,8 @@
+LEVEL N=57 discs=[ 3, 19 ] orbits=6
+VAL N=57 type=[ 0, 0 ] order=1 cond=1 dim=5 cm=[ 0, 0 ]
+VAL N=57 type=[ 3, 2 ] order=18 cond=57 dim=5 cm=[ 1, 0 ]
+VAL N=57 type=[ 0, 2 ] order=9 cond=19 dim=5 cm=[ 0, 0 ]
+VAL N=57 type=[ 3, 2 ] order=6 cond=57 dim=4 cm=[ 0, 0 ]
+VAL N=57 type=[ 0, 2 ] order=3 cond=19 dim=4 cm=[ 0, 0 ]
+VAL N=57 type=[ 3, 3 ] order=2 cond=57 dim=4 cm=[ 0, 0 ]
+DONE

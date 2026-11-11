@@ -1,0 +1,14 @@
+LEVEL N=145 discs=[] orbits=12
+VAL N=145 type=[ 0, 0 ] order=1 cond=1 dim=13 cm=[]
+VAL N=145 type=[ 3, 0 ] order=2 cond=5 dim=14 cm=[]
+VAL N=145 type=[ 2, 2 ] order=28 cond=145 dim=13 cm=[]
+VAL N=145 type=[ 2, 2 ] order=28 cond=145 dim=13 cm=[]
+VAL N=145 type=[ 0, 2 ] order=14 cond=29 dim=14 cm=[]
+VAL N=145 type=[ 3, 2 ] order=14 cond=145 dim=12 cm=[]
+VAL N=145 type=[ 0, 2 ] order=7 cond=29 dim=12 cm=[]
+VAL N=145 type=[ 3, 2 ] order=14 cond=145 dim=14 cm=[]
+VAL N=145 type=[ 2, 2 ] order=4 cond=145 dim=13 cm=[]
+VAL N=145 type=[ 2, 2 ] order=4 cond=145 dim=13 cm=[]
+VAL N=145 type=[ 0, 3 ] order=2 cond=29 dim=14 cm=[]
+VAL N=145 type=[ 3, 3 ] order=2 cond=145 dim=12 cm=[]
+DONE

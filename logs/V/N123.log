@@ -1,0 +1,10 @@
+LEVEL N=123 discs=[ 3, 123 ] orbits=8
+VAL N=123 type=[ 0, 0 ] order=1 cond=1 dim=13 cm=[ 0, 0 ]
+VAL N=123 type=[ 3, 2 ] order=40 cond=123 dim=12 cm=[ 0, 0 ]
+VAL N=123 type=[ 0, 2 ] order=20 cond=41 dim=12 cm=[ 0, 0 ]
+VAL N=123 type=[ 0, 2 ] order=10 cond=41 dim=12 cm=[ 0, 0 ]
+VAL N=123 type=[ 3, 2 ] order=8 cond=123 dim=12 cm=[ 0, 0 ]
+VAL N=123 type=[ 0, 2 ] order=5 cond=41 dim=12 cm=[ 0, 0 ]
+VAL N=123 type=[ 0, 2 ] order=4 cond=41 dim=12 cm=[ 0, 0 ]
+VAL N=123 type=[ 0, 3 ] order=2 cond=41 dim=12 cm=[ 0, 0 ]
+DONE

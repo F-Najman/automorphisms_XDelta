@@ -1,0 +1,6 @@
+Loading "lib.m"
+N=25 |Delta|=2 g=12 ratio_degree=144 max_candidate_order=630 cyclotomic_orders=[] field_degree=1
+N=63 |Delta|=18 g=9 ratio_degree=36 max_candidate_order=126 cyclotomic_orders=[ 2 ] field_degree=2
+N=63 |Delta|=36 g=5 ratio_degree=16 max_candidate_order=60 cyclotomic_orders=[ 2 ] field_degree=2
+X_0(63): full geometric special-fibre automorphism group has order 48.
+ALL CHECKS PASSED

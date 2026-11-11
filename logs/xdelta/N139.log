@@ -1,0 +1,11 @@
+ORBIT N=139 order=1 conductor=1 size=1 dim=11 cmproxy=0
+ORBIT N=139 order=69 conductor=139 size=44 dim=11 cmproxy=0
+ORBIT N=139 order=23 conductor=139 size=22 dim=10 cmproxy=0
+ORBIT N=139 order=3 conductor=139 size=2 dim=11 cmproxy=0
+CHECK N=139 genus(X_1)=737
+DELTA N=139 gens=[ 2 ] idx=1 genus=11 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=139 gens=[ 8 ] idx=3 genus=33 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=139 gens=[ 97 ] idx=23 genus=231 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=139 gens=[ 138 ] idx=69 genus=737 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+SUMMARY N=139 ok=4 fail=0
+DONE

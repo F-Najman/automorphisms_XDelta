@@ -1,0 +1,15 @@
+ORBIT N=398 order=1 conductor=1 size=1 dim=49 cmproxy=0
+ORBIT N=398 order=99 conductor=199 size=60 dim=48 cmproxy=0
+ORBIT N=398 order=33 conductor=199 size=20 dim=48 cmproxy=0
+ORBIT N=398 order=11 conductor=199 size=10 dim=48 cmproxy=0
+ORBIT N=398 order=9 conductor=199 size=6 dim=48 cmproxy=0
+ORBIT N=398 order=3 conductor=199 size=2 dim=48 cmproxy=0
+CHECK N=398 genus(X_1)=4753
+DELTA N=398 gens=[ 3 ] idx=1 genus=49 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=false OK
+DELTA N=398 gens=[ 27 ] idx=3 genus=145 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=true OK
+DELTA N=398 gens=[ 181 ] idx=9 genus=433 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=true OK
+DELTA N=398 gens=[ 37 ] idx=11 genus=529 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=true OK
+DELTA N=398 gens=[ 107 ] idx=33 genus=1585 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=true OK
+DELTA N=398 gens=[ 397 ] idx=99 genus=4753 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=true OK
+SUMMARY N=398 ok=6 fail=0
+DONE

@@ -1,0 +1,6 @@
+LEVEL N=131 discs=[ 131 ] orbits=4
+VAL N=131 type=[ 0 ] order=1 cond=1 dim=11 cm=[ 0 ]
+VAL N=131 type=[ 2 ] order=65 cond=131 dim=10 cm=[ 0 ]
+VAL N=131 type=[ 2 ] order=13 cond=131 dim=10 cm=[ 0 ]
+VAL N=131 type=[ 2 ] order=5 cond=131 dim=10 cm=[ 0 ]
+DONE

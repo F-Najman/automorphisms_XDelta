@@ -1,0 +1,11 @@
+LEVEL N=73 discs=[] orbits=9
+VAL N=73 type=[ 0 ] order=1 cond=1 dim=5 cm=[]
+VAL N=73 type=[ 2 ] order=36 cond=73 dim=6 cm=[]
+VAL N=73 type=[ 2 ] order=18 cond=73 dim=5 cm=[]
+VAL N=73 type=[ 2 ] order=12 cond=73 dim=5 cm=[]
+VAL N=73 type=[ 2 ] order=9 cond=73 dim=5 cm=[]
+VAL N=73 type=[ 2 ] order=6 cond=73 dim=4 cm=[]
+VAL N=73 type=[ 2 ] order=4 cond=73 dim=5 cm=[]
+VAL N=73 type=[ 2 ] order=3 cond=73 dim=4 cm=[]
+VAL N=73 type=[ 3 ] order=2 cond=73 dim=4 cm=[]
+DONE

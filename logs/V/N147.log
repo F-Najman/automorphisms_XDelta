@@ -1,0 +1,10 @@
+LEVEL N=147 discs=[ 3, 7 ] orbits=8
+VAL N=147 type=[ 0, 0 ] order=1 cond=1 dim=11 cm=[ 0, 2 ]
+VAL N=147 type=[ 3, 4 ] order=42 cond=147 dim=17 cm=[ 1, 0 ]
+VAL N=147 type=[ 0, 4 ] order=21 cond=49 dim=17 cm=[ 0, 0 ]
+VAL N=147 type=[ 3, 4 ] order=14 cond=147 dim=16 cm=[ 0, 0 ]
+VAL N=147 type=[ 0, 4 ] order=7 cond=49 dim=16 cm=[ 0, 0 ]
+VAL N=147 type=[ 3, 2 ] order=6 cond=21 dim=11 cm=[ 3, 0 ]
+VAL N=147 type=[ 0, 2 ] order=3 cond=7 dim=11 cm=[ 0, 2 ]
+VAL N=147 type=[ 3, 3 ] order=2 cond=21 dim=10 cm=[ 2, 0 ]
+DONE

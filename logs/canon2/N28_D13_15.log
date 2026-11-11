@@ -1,0 +1,15 @@
+Loading "lib.m"
+N=28 Delta=[ 1, 13, 15, 27 ] |Delta|=4 mu=144
+genus g=4
+Atkin-Lehner Q with iota_Q(Delta)=Delta: [ 1, 4, 7, 28 ] ; |B_Delta| = 12
+ell=113 (ell mod N = 1)
+Tr(T_ell) = 24, predicted #X(F_ell) = 90
+root-of-unity orders among Frobenius ratios: [] ; endomorphisms of J over Fbar_ell defined over F_{ell^1}
+number of quadrics: 1  (non-hyperelliptic expects 1)
+dim of quadric intersection: 2
+added 5 cubics
+curve built; checking genus... (0.130 s)
+genus of model over F_ell: 4
+#C(F_ell) = 90 (predicted 90)
+computing AutomorphismGroup over GF(113^1)... (0.180 s)
+RESULT N=28 Delta=[ 1, 13, 15, 27 ] g=4 ell=113 k=1 : |Aut(X_Fbar)| = 36, |B_Delta| = 12, group S3^2 (2.060 s)

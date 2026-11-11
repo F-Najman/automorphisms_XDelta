@@ -1,0 +1,27 @@
+ORBIT N=215 order=1 conductor=1 size=1 dim=21 cmproxy=0
+ORBIT N=215 order=2 conductor=5 size=1 dim=20 cmproxy=0
+ORBIT N=215 order=84 conductor=215 size=24 dim=20 cmproxy=0
+ORBIT N=215 order=21 conductor=43 size=12 dim=20 cmproxy=0
+ORBIT N=215 order=42 conductor=215 size=12 dim=20 cmproxy=0
+ORBIT N=215 order=28 conductor=215 size=12 dim=20 cmproxy=0
+ORBIT N=215 order=7 conductor=43 size=6 dim=20 cmproxy=0
+ORBIT N=215 order=14 conductor=215 size=6 dim=20 cmproxy=0
+ORBIT N=215 order=12 conductor=215 size=4 dim=20 cmproxy=0
+ORBIT N=215 order=3 conductor=43 size=2 dim=20 cmproxy=0
+ORBIT N=215 order=6 conductor=215 size=2 dim=20 cmproxy=0
+ORBIT N=215 order=4 conductor=215 size=2 dim=20 cmproxy=0
+CHECK N=215 genus(X_1)=1681
+DELTA N=215 gens=[ 87, 46 ] idx=1 genus=21 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=215 gens=[ 27, 171 ] idx=3 genus=61 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=215 gens=[ 37, 171 ] idx=7 genus=141 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=215 gens=[ 128, 171 ] idx=21 genus=421 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=215 gens=[ 9, 171 ] idx=2 genus=41 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=215 gens=[ 84, 171 ] idx=6 genus=121 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=215 gens=[ 79, 171 ] idx=14 genus=281 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=215 gens=[ 44, 171 ] idx=42 genus=841 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=215 gens=[ 134 ] idx=4 genus=81 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=215 gens=[ 39 ] idx=12 genus=241 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=215 gens=[ 209 ] idx=28 genus=561 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=215 gens=[ 214 ] idx=84 genus=1681 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+SUMMARY N=215 ok=12 fail=0
+DONE

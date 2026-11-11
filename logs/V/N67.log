@@ -1,0 +1,6 @@
+LEVEL N=67 discs=[ 67 ] orbits=4
+VAL N=67 type=[ 0 ] order=1 cond=1 dim=5 cm=[ 0 ]
+VAL N=67 type=[ 2 ] order=33 cond=67 dim=5 cm=[ 0 ]
+VAL N=67 type=[ 2 ] order=11 cond=67 dim=4 cm=[ 0 ]
+VAL N=67 type=[ 2 ] order=3 cond=67 dim=5 cm=[ 0 ]
+DONE

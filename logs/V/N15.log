@@ -1,0 +1,5 @@
+LEVEL N=15 discs=[ 3, 15 ] orbits=3
+VAL N=15 type=[ 0, 0 ] order=1 cond=1 dim=1 cm=[ 0, 0 ]
+VAL N=15 type=[ 3, 2 ] order=4 cond=15 dim=0 cm=[ 0, 0 ]
+VAL N=15 type=[ 0, 3 ] order=2 cond=5 dim=0 cm=[ 0, 0 ]
+DONE

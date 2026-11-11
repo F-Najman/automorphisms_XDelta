@@ -1,0 +1,7 @@
+ORBIT N=167 order=1 conductor=1 size=1 dim=14 cmproxy=0
+ORBIT N=167 order=83 conductor=167 size=82 dim=13 cmproxy=0
+CHECK N=167 genus(X_1)=1080
+DELTA N=167 gens=[ 5 ] idx=1 genus=14 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=167 gens=[ 166 ] idx=83 genus=1080 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+SUMMARY N=167 ok=2 fail=0
+DONE

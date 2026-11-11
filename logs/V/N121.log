@@ -1,0 +1,6 @@
+LEVEL N=121 discs=[ 11 ] orbits=4
+VAL N=121 type=[ 0 ] order=1 cond=1 dim=6 cm=[ 1 ]
+VAL N=121 type=[ 4 ] order=55 cond=121 dim=10 cm=[ 0 ]
+VAL N=121 type=[ 4 ] order=11 cond=121 dim=10 cm=[ 0 ]
+VAL N=121 type=[ 2 ] order=5 cond=11 dim=5 cm=[ 1 ]
+DONE

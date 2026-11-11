@@ -1,0 +1,4 @@
+LEVEL N=166 discs=[ 83 ] orbits=2
+VAL N=166 type=[ 0, 0 ] order=1 cond=1 dim=20 cm=[ 0 ]
+VAL N=166 type=[ 0, 2 ] order=41 cond=83 dim=19 cm=[ 0 ]
+DONE

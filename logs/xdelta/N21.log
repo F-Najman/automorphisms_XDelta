@@ -1,0 +1,9 @@
+ORBIT N=21 order=1 conductor=1 size=1 dim=1 cmproxy=0
+ORBIT N=21 order=6 conductor=21 size=2 dim=1 cmproxy=1
+ORBIT N=21 order=3 conductor=7 size=2 dim=1 cmproxy=0
+ORBIT N=21 order=2 conductor=21 size=1 dim=0 cmproxy=0
+CHECK N=21 genus(X_1)=5
+DELTA N=21 gens=[ 13, 8 ] idx=3 genus=3 cmproxy=0 C1=true C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=21 gens=[ 20 ] idx=6 genus=5 cmproxy=2 C1=false C3_l=0 C3p_l=0 C2=false FAIL
+SUMMARY N=21 ok=0 fail=2
+DONE

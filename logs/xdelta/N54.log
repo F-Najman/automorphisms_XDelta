@@ -1,0 +1,9 @@
+ORBIT N=54 order=1 conductor=1 size=1 dim=4 cmproxy=2
+ORBIT N=54 order=9 conductor=27 size=6 dim=7 cmproxy=0
+ORBIT N=54 order=3 conductor=9 size=2 dim=3 cmproxy=0
+CHECK N=54 genus(X_1)=52
+DELTA N=54 gens=[ 29 ] idx=1 genus=4 cmproxy=2 C1=false C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=54 gens=[ 35 ] idx=3 genus=10 cmproxy=2 C1=true C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=54 gens=[ 53 ] idx=9 genus=52 cmproxy=2 C1=true C3_l=5 C3p_l=5 C2=false OK
+SUMMARY N=54 ok=1 fail=2
+DONE

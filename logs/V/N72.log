@@ -1,0 +1,10 @@
+LEVEL N=72 discs=[ 3, 4, 8, 24 ] orbits=8
+VAL N=72 type=[ 0, 0 ] order=1 cond=1 dim=5 cm=[ 2, 0, 0, 0 ]
+VAL N=72 type=[ 2, 0 ] order=2 cond=8 dim=8 cm=[ 0, 0, 0, 2 ]
+VAL N=72 type=[ 1, 4 ] order=6 cond=36 dim=8 cm=[ 0, 0, 0, 0 ]
+VAL N=72 type=[ 3, 4 ] order=6 cond=72 dim=10 cm=[ 0, 0, 2, 0 ]
+VAL N=72 type=[ 0, 4 ] order=3 cond=9 dim=8 cm=[ 0, 0, 0, 0 ]
+VAL N=72 type=[ 2, 4 ] order=6 cond=72 dim=10 cm=[ 0, 0, 0, 0 ]
+VAL N=72 type=[ 1, 3 ] order=2 cond=12 dim=4 cm=[ 0, 4, 0, 0 ]
+VAL N=72 type=[ 3, 3 ] order=2 cond=24 dim=8 cm=[ 0, 0, 4, 0 ]
+DONE

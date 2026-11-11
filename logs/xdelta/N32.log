@@ -1,0 +1,9 @@
+ORBIT N=32 order=1 conductor=1 size=1 dim=1 cmproxy=1
+ORBIT N=32 order=8 conductor=32 size=4 dim=3 cmproxy=0
+ORBIT N=32 order=4 conductor=16 size=2 dim=2 cmproxy=0
+ORBIT N=32 order=2 conductor=8 size=1 dim=0 cmproxy=0
+CHECK N=32 genus(X_1)=17
+DELTA N=32 gens=[ 17, 31 ] idx=4 genus=5 cmproxy=1 C1=true C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=32 gens=[ 31 ] idx=8 genus=17 cmproxy=1 C1=true C3_l=3 C3p_l=3 C2=false OK
+SUMMARY N=32 ok=1 fail=1
+DONE

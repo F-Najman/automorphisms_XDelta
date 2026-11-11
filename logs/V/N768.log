@@ -1,0 +1,8 @@
+LEVEL N=768 discs=[ 3, 4, 8, 24 ] orbits=6
+VAL N=768 type=[ 0, 0 ] order=1 cond=1 dim=105 cm=[ 0, 18, 8, 0 ]
+VAL N=768 type=[ 4, 0 ] order=4 cond=16 dim=104 cm=[ 0, 0, 0, 0 ]
+VAL N=768 type=[ 2, 0 ] order=2 cond=8 dim=104 cm=[ 0, 12, 20, 0 ]
+VAL N=768 type=[ 1, 3 ] order=2 cond=12 dim=104 cm=[ 20, 0, 8, 8 ]
+VAL N=768 type=[ 5, 3 ] order=4 cond=48 dim=104 cm=[ 8, 0, 0, 0 ]
+VAL N=768 type=[ 3, 3 ] order=2 cond=24 dim=104 cm=[ 16, 0, 28, 20 ]
+DONE

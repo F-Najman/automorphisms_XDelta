@@ -1,0 +1,15 @@
+ORBIT N=279 order=1 conductor=1 size=1 dim=29 cmproxy=0
+ORBIT N=279 order=3 conductor=9 size=2 dim=30 cmproxy=0
+ORBIT N=279 order=3 conductor=31 size=2 dim=28 cmproxy=1
+ORBIT N=279 order=3 conductor=279 size=2 dim=30 cmproxy=0
+ORBIT N=279 order=3 conductor=279 size=2 dim=30 cmproxy=0
+ORBIT N=279 order=2 conductor=93 size=1 dim=28 cmproxy=12
+CHECK N=279 (partial genus, characters of order <= 3) 293
+DELTA N=279 gens=[ 127, 218 ] idx=1 genus=29 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=279 gens=[ 275, 154 ] idx=3 genus=85 cmproxy=2 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=279 gens=[ 23, 67 ] idx=2 genus=57 cmproxy=12 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=279 gens=[ 127, 125 ] idx=3 genus=89 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=279 gens=[ 266, 278 ] idx=3 genus=89 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=279 gens=[ 131, 154 ] idx=3 genus=89 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+SUMMARY N=279 ok=6 fail=0
+DONE

@@ -1,0 +1,15 @@
+ORBIT N=125 order=1 conductor=1 size=1 dim=8 cmproxy=0
+ORBIT N=125 order=50 conductor=125 size=20 dim=12 cmproxy=0
+ORBIT N=125 order=25 conductor=125 size=20 dim=11 cmproxy=0
+ORBIT N=125 order=10 conductor=25 size=4 dim=8 cmproxy=0
+ORBIT N=125 order=5 conductor=25 size=4 dim=7 cmproxy=0
+ORBIT N=125 order=2 conductor=5 size=1 dim=8 cmproxy=0
+CHECK N=125 genus(X_1)=536
+DELTA N=125 gens=[ 2 ] idx=1 genus=8 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=125 gens=[ 4 ] idx=2 genus=16 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=125 gens=[ 32 ] idx=5 genus=36 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=125 gens=[ 24 ] idx=10 genus=76 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=125 gens=[ 57 ] idx=25 genus=256 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=125 gens=[ 124 ] idx=50 genus=536 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+SUMMARY N=125 ok=6 fail=0
+DONE

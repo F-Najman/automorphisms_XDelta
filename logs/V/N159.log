@@ -1,0 +1,8 @@
+LEVEL N=159 discs=[ 3, 159 ] orbits=6
+VAL N=159 type=[ 0, 0 ] order=1 cond=1 dim=17 cm=[ 0, 0 ]
+VAL N=159 type=[ 3, 2 ] order=52 cond=159 dim=16 cm=[ 0, 0 ]
+VAL N=159 type=[ 0, 2 ] order=26 cond=53 dim=16 cm=[ 0, 0 ]
+VAL N=159 type=[ 0, 2 ] order=13 cond=53 dim=16 cm=[ 0, 0 ]
+VAL N=159 type=[ 3, 2 ] order=4 cond=159 dim=16 cm=[ 0, 0 ]
+VAL N=159 type=[ 0, 3 ] order=2 cond=53 dim=16 cm=[ 0, 0 ]
+DONE

@@ -1,0 +1,6 @@
+LEVEL N=141 discs=[ 3, 47 ] orbits=4
+VAL N=141 type=[ 0, 0 ] order=1 cond=1 dim=15 cm=[ 0, 0 ]
+VAL N=141 type=[ 3, 2 ] order=46 cond=141 dim=14 cm=[ 0, 0 ]
+VAL N=141 type=[ 0, 2 ] order=23 cond=47 dim=14 cm=[ 0, 0 ]
+VAL N=141 type=[ 3, 3 ] order=2 cond=141 dim=14 cm=[ 0, 10 ]
+DONE

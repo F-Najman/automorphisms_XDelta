@@ -1,0 +1,8 @@
+LEVEL N=40 discs=[ 4, 8, 20, 40 ] orbits=6
+VAL N=40 type=[ 0, 0 ] order=1 cond=1 dim=3 cm=[ 0, 0, 0, 0 ]
+VAL N=40 type=[ 2, 0 ] order=2 cond=8 dim=4 cm=[ 0, 0, 0, 0 ]
+VAL N=40 type=[ 1, 2 ] order=4 cond=20 dim=2 cm=[ 2, 0, 0, 0 ]
+VAL N=40 type=[ 3, 2 ] order=4 cond=40 dim=4 cm=[ 0, 0, 0, 0 ]
+VAL N=40 type=[ 0, 3 ] order=2 cond=5 dim=2 cm=[ 0, 0, 0, 0 ]
+VAL N=40 type=[ 2, 3 ] order=2 cond=40 dim=4 cm=[ 0, 0, 0, 0 ]
+DONE

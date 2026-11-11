@@ -1,0 +1,7 @@
+Loading "lib.m"
+N=13 dim 2
+kernel dim 1
+y^2 = X^6 - 8*X^5 + 26*X^4 - 46*X^3 + 53*X^2 - 42*X + 17
+Igusa-Clebsch [ 128, 812032, 123109376, -725849473024 ]
+Geometric Aut X_1(13): order 12 D6
+Aut over Q order 6

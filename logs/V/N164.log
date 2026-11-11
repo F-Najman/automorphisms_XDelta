@@ -1,0 +1,10 @@
+LEVEL N=164 discs=[ 4, 164 ] orbits=8
+VAL N=164 type=[ 0, 0 ] order=1 cond=1 dim=19 cm=[ 0, 0 ]
+VAL N=164 type=[ 1, 2 ] order=40 cond=164 dim=19 cm=[ 1, 0 ]
+VAL N=164 type=[ 0, 2 ] order=20 cond=41 dim=18 cm=[ 0, 0 ]
+VAL N=164 type=[ 0, 2 ] order=10 cond=41 dim=18 cm=[ 0, 0 ]
+VAL N=164 type=[ 1, 2 ] order=8 cond=164 dim=19 cm=[ 1, 0 ]
+VAL N=164 type=[ 0, 2 ] order=5 cond=41 dim=18 cm=[ 0, 0 ]
+VAL N=164 type=[ 0, 2 ] order=4 cond=41 dim=18 cm=[ 0, 0 ]
+VAL N=164 type=[ 0, 3 ] order=2 cond=41 dim=18 cm=[ 0, 0 ]
+DONE

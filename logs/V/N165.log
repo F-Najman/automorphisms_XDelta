@@ -1,0 +1,14 @@
+LEVEL N=165 discs=[ 3, 11, 15, 55 ] orbits=12
+VAL N=165 type=[ 0, 0, 0 ] order=1 cond=1 dim=21 cm=[ 0, 0, 0, 0 ]
+VAL N=165 type=[ 3, 2, 0 ] order=4 cond=15 dim=20 cm=[ 0, 0, 0, 0 ]
+VAL N=165 type=[ 0, 3, 0 ] order=2 cond=5 dim=20 cm=[ 0, 0, 0, 0 ]
+VAL N=165 type=[ 3, 0, 2 ] order=10 cond=33 dim=20 cm=[ 0, 0, 0, 0 ]
+VAL N=165 type=[ 0, 2, 2 ] order=20 cond=55 dim=20 cm=[ 0, 0, 0, 0 ]
+VAL N=165 type=[ 3, 3, 2 ] order=10 cond=165 dim=20 cm=[ 0, 0, 0, 0 ]
+VAL N=165 type=[ 0, 0, 2 ] order=5 cond=11 dim=20 cm=[ 0, 0, 0, 0 ]
+VAL N=165 type=[ 3, 2, 2 ] order=20 cond=165 dim=20 cm=[ 0, 0, 0, 0 ]
+VAL N=165 type=[ 0, 3, 2 ] order=10 cond=55 dim=20 cm=[ 0, 0, 0, 0 ]
+VAL N=165 type=[ 3, 0, 3 ] order=2 cond=33 dim=20 cm=[ 0, 4, 0, 0 ]
+VAL N=165 type=[ 0, 2, 3 ] order=4 cond=55 dim=20 cm=[ 0, 4, 0, 0 ]
+VAL N=165 type=[ 3, 3, 3 ] order=2 cond=165 dim=20 cm=[ 0, 4, 0, 0 ]
+DONE

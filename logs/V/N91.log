@@ -1,0 +1,17 @@
+LEVEL N=91 discs=[ 7, 91 ] orbits=15
+VAL N=91 type=[ 0, 0 ] order=1 cond=1 dim=7 cm=[ 0, 0 ]
+VAL N=91 type=[ 2, 0 ] order=3 cond=7 dim=8 cm=[ 0, 0 ]
+VAL N=91 type=[ 2, 2 ] order=12 cond=91 dim=7 cm=[ 0, 0 ]
+VAL N=91 type=[ 3, 2 ] order=12 cond=91 dim=8 cm=[ 0, 0 ]
+VAL N=91 type=[ 2, 2 ] order=12 cond=91 dim=7 cm=[ 0, 0 ]
+VAL N=91 type=[ 0, 2 ] order=6 cond=13 dim=8 cm=[ 0, 0 ]
+VAL N=91 type=[ 2, 2 ] order=6 cond=91 dim=7 cm=[ 0, 0 ]
+VAL N=91 type=[ 2, 2 ] order=6 cond=91 dim=7 cm=[ 0, 0 ]
+VAL N=91 type=[ 2, 2 ] order=12 cond=91 dim=8 cm=[ 0, 0 ]
+VAL N=91 type=[ 3, 2 ] order=4 cond=91 dim=6 cm=[ 0, 0 ]
+VAL N=91 type=[ 0, 2 ] order=3 cond=13 dim=8 cm=[ 0, 0 ]
+VAL N=91 type=[ 2, 2 ] order=3 cond=91 dim=7 cm=[ 0, 0 ]
+VAL N=91 type=[ 2, 2 ] order=3 cond=91 dim=7 cm=[ 0, 0 ]
+VAL N=91 type=[ 0, 3 ] order=2 cond=13 dim=6 cm=[ 0, 0 ]
+VAL N=91 type=[ 2, 3 ] order=6 cond=91 dim=8 cm=[ 0, 0 ]
+DONE

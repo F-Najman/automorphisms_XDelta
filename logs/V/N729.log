@@ -1,0 +1,4 @@
+LEVEL N=729 discs=[ 3 ] orbits=2
+VAL N=729 type=[ 0 ] order=1 cond=1 dim=64 cm=[ 8 ]
+VAL N=729 type=[ 4 ] order=3 cond=9 dim=63 cm=[ 7 ]
+DONE

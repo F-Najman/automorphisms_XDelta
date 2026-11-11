@@ -1,0 +1,6 @@
+LEVEL N=173 discs=[] orbits=4
+VAL N=173 type=[ 0 ] order=1 cond=1 dim=14 cm=[]
+VAL N=173 type=[ 2 ] order=86 cond=173 dim=14 cm=[]
+VAL N=173 type=[ 2 ] order=43 cond=173 dim=13 cm=[]
+VAL N=173 type=[ 3 ] order=2 cond=173 dim=14 cm=[]
+DONE

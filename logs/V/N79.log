@@ -1,0 +1,6 @@
+LEVEL N=79 discs=[ 79 ] orbits=4
+VAL N=79 type=[ 0 ] order=1 cond=1 dim=6 cm=[ 0 ]
+VAL N=79 type=[ 2 ] order=39 cond=79 dim=6 cm=[ 0 ]
+VAL N=79 type=[ 2 ] order=13 cond=79 dim=5 cm=[ 0 ]
+VAL N=79 type=[ 2 ] order=3 cond=79 dim=6 cm=[ 0 ]
+DONE

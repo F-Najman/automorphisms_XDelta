@@ -1,0 +1,17 @@
+ORBIT N=48 order=1 conductor=1 size=1 dim=3 cmproxy=0
+ORBIT N=48 order=4 conductor=16 size=2 dim=6 cmproxy=0
+ORBIT N=48 order=2 conductor=8 size=1 dim=4 cmproxy=0
+ORBIT N=48 order=2 conductor=12 size=1 dim=2 cmproxy=2
+ORBIT N=48 order=4 conductor=48 size=2 dim=6 cmproxy=0
+ORBIT N=48 order=2 conductor=24 size=1 dim=4 cmproxy=4
+CHECK N=48 genus(X_1)=37
+DELTA N=48 gens=[ 37, 17, 31 ] idx=1 genus=3 cmproxy=0 C1=true C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=48 gens=[ 25, 17, 31 ] idx=2 genus=7 cmproxy=0 C1=true C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=48 gens=[ 31, 17 ] idx=4 genus=19 cmproxy=0 C1=true C3_l=5 C3p_l=5 C2=false OK
+DELTA N=48 gens=[ 37, 47 ] idx=2 genus=5 cmproxy=2 C1=false C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=48 gens=[ 19, 47 ] idx=2 genus=7 cmproxy=4 C1=false C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=48 gens=[ 25, 47 ] idx=4 genus=13 cmproxy=6 C1=false C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=48 gens=[ 7, 41 ] idx=4 genus=19 cmproxy=0 C1=true C3_l=5 C3p_l=5 C2=false OK
+DELTA N=48 gens=[ 47 ] idx=8 genus=37 cmproxy=6 C1=true C3_l=5 C3p_l=5 C2=false OK
+SUMMARY N=48 ok=3 fail=5
+DONE

@@ -1,0 +1,8 @@
+ORBIT N=17 order=1 conductor=1 size=1 dim=1 cmproxy=0
+ORBIT N=17 order=8 conductor=17 size=4 dim=1 cmproxy=0
+ORBIT N=17 order=4 conductor=17 size=2 dim=0 cmproxy=0
+ORBIT N=17 order=2 conductor=17 size=1 dim=0 cmproxy=0
+CHECK N=17 genus(X_1)=5
+DELTA N=17 gens=[ 16 ] idx=8 genus=5 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+SUMMARY N=17 ok=1 fail=0
+DONE

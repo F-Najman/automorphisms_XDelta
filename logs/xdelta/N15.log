@@ -1,0 +1,6 @@
+ORBIT N=15 order=1 conductor=1 size=1 dim=1 cmproxy=0
+ORBIT N=15 order=4 conductor=15 size=2 dim=0 cmproxy=0
+ORBIT N=15 order=2 conductor=5 size=1 dim=0 cmproxy=0
+CHECK N=15 genus(X_1)=1
+SUMMARY N=15 ok=0 fail=0
+DONE

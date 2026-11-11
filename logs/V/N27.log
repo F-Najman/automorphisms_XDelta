@@ -1,0 +1,5 @@
+LEVEL N=27 discs=[ 3 ] orbits=3
+VAL N=27 type=[ 0 ] order=1 cond=1 dim=1 cm=[ 1 ]
+VAL N=27 type=[ 6 ] order=9 cond=27 dim=2 cm=[ 0 ]
+VAL N=27 type=[ 4 ] order=3 cond=9 dim=0 cm=[ 0 ]
+DONE

@@ -1,0 +1,10 @@
+N=48 Delta=25,47 discs=[ 3, 4, 8, 24 ] primes inert in all CM fields (<=600): [ 23, 47, 71, 167, 191, 239, 263, 311, 359, 383, 431, 479, 503, 599 ]
+ORBIT cond=1 order=1 size=1 dim=3 cmproxy_by_D=[ 0, 0, 0, 0 ]
+ORBIT cond=8 order=2 size=1 dim=4 cmproxy_by_D=[ 0, 0, 0, 0 ]
+ORBIT cond=12 order=2 size=1 dim=2 cmproxy_by_D=[ 2, 0, 0, 0 ]
+ORBIT cond=24 order=2 size=1 dim=4 cmproxy_by_D=[ 0, 0, 4, 0 ]
+C4CHECK N=48 Delta=25,47 Delta'=[ 37, 17, 31 ] index=4 g'=3 cm'(bound)=[ 0, 0, 0, 0 ] cm_complement=[ 2, 0, 4, 0 ] overlapD=[] coprime_any_p=11 coprime_inert_p=23 C1(X_Delta')=true : FULL
+C4CHECK N=48 Delta=25,47 Delta'=[ 25, 17, 31 ] index=2 g'=7 cm'(bound)=[ 0, 0, 0, 0 ] cm_complement=[ 2, 0, 4, 0 ] overlapD=[] coprime_any_p=5 coprime_inert_p=23 C1(X_Delta')=true : FULL
+C4CHECK N=48 Delta=25,47 Delta'=[ 37, 47 ] index=2 g'=5 cm'(bound)=[ 2, 0, 0, 0 ] cm_complement=[ 0, 0, 4, 0 ] overlapD=[] coprime_any_p=13 coprime_inert_p=0 C1(X_Delta')=false : FAIL
+C4CHECK N=48 Delta=25,47 Delta'=[ 19, 47 ] index=2 g'=7 cm'(bound)=[ 0, 0, 4, 0 ] cm_complement=[ 2, 0, 0, 0 ] overlapD=[] coprime_any_p=7 coprime_inert_p=0 C1(X_Delta')=false : FAIL
+DONE

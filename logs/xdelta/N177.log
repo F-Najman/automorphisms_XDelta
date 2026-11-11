@@ -1,0 +1,11 @@
+ORBIT N=177 order=1 conductor=1 size=1 dim=19 cmproxy=0
+ORBIT N=177 order=58 conductor=177 size=28 dim=18 cmproxy=0
+ORBIT N=177 order=29 conductor=59 size=28 dim=18 cmproxy=0
+ORBIT N=177 order=2 conductor=177 size=1 dim=18 cmproxy=6
+CHECK N=177 genus(X_1)=1045
+DELTA N=177 gens=[ 61, 119 ] idx=1 genus=19 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=177 gens=[ 58, 119 ] idx=29 genus=523 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=177 gens=[ 173 ] idx=2 genus=37 cmproxy=6 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=177 gens=[ 176 ] idx=58 genus=1045 cmproxy=6 C1=true C3_l=2 C3p_l=2 C2=true OK
+SUMMARY N=177 ok=4 fail=0
+DONE

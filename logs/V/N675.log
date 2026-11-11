@@ -1,0 +1,6 @@
+LEVEL N=675 discs=[ 3, 15 ] orbits=4
+VAL N=675 type=[ 0, 0 ] order=1 cond=1 dim=73 cm=[ 10, 8 ]
+VAL N=675 type=[ 4, 0 ] order=3 cond=9 dim=72 cm=[ 0, 0 ]
+VAL N=675 type=[ 3, 2 ] order=4 cond=15 dim=72 cm=[ 10, 10 ]
+VAL N=675 type=[ 0, 3 ] order=2 cond=5 dim=72 cm=[ 8, 16 ]
+DONE

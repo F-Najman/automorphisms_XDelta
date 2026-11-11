@@ -1,0 +1,8 @@
+LEVEL N=197 discs=[] orbits=6
+VAL N=197 type=[ 0 ] order=1 cond=1 dim=16 cm=[]
+VAL N=197 type=[ 2 ] order=98 cond=197 dim=16 cm=[]
+VAL N=197 type=[ 2 ] order=49 cond=197 dim=15 cm=[]
+VAL N=197 type=[ 2 ] order=14 cond=197 dim=16 cm=[]
+VAL N=197 type=[ 2 ] order=7 cond=197 dim=15 cm=[]
+VAL N=197 type=[ 3 ] order=2 cond=197 dim=16 cm=[]
+DONE

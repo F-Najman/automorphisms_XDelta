@@ -1,0 +1,14 @@
+LEVEL N=175 discs=[ 7, 35 ] orbits=12
+VAL N=175 type=[ 0, 0 ] order=1 cond=1 dim=15 cm=[ 0, 0 ]
+VAL N=175 type=[ 4, 0 ] order=10 cond=25 dim=18 cm=[ 0, 0 ]
+VAL N=175 type=[ 4, 0 ] order=5 cond=25 dim=18 cm=[ 0, 0 ]
+VAL N=175 type=[ 3, 0 ] order=2 cond=5 dim=14 cm=[ 0, 0 ]
+VAL N=175 type=[ 4, 2 ] order=60 cond=175 dim=18 cm=[ 0, 0 ]
+VAL N=175 type=[ 2, 2 ] order=12 cond=35 dim=14 cm=[ 0, 0 ]
+VAL N=175 type=[ 0, 2 ] order=3 cond=7 dim=14 cm=[ 0, 0 ]
+VAL N=175 type=[ 4, 2 ] order=30 cond=175 dim=18 cm=[ 0, 0 ]
+VAL N=175 type=[ 4, 2 ] order=15 cond=175 dim=18 cm=[ 0, 0 ]
+VAL N=175 type=[ 3, 2 ] order=6 cond=35 dim=14 cm=[ 0, 0 ]
+VAL N=175 type=[ 4, 3 ] order=20 cond=175 dim=18 cm=[ 0, 0 ]
+VAL N=175 type=[ 2, 3 ] order=4 cond=35 dim=14 cm=[ 6, 2 ]
+DONE

@@ -1,0 +1,6 @@
+LEVEL N=86 discs=[ 43 ] orbits=4
+VAL N=86 type=[ 0, 0 ] order=1 cond=1 dim=10 cm=[ 0 ]
+VAL N=86 type=[ 0, 2 ] order=21 cond=43 dim=9 cm=[ 0 ]
+VAL N=86 type=[ 0, 2 ] order=7 cond=43 dim=9 cm=[ 0 ]
+VAL N=86 type=[ 0, 2 ] order=3 cond=43 dim=9 cm=[ 0 ]
+DONE

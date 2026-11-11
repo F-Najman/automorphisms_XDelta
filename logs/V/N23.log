@@ -1,0 +1,4 @@
+LEVEL N=23 discs=[ 23 ] orbits=2
+VAL N=23 type=[ 0 ] order=1 cond=1 dim=2 cm=[ 0 ]
+VAL N=23 type=[ 2 ] order=11 cond=23 dim=1 cm=[ 0 ]
+DONE

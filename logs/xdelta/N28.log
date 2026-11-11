@@ -1,0 +1,11 @@
+ORBIT N=28 order=1 conductor=1 size=1 dim=2 cmproxy=0
+ORBIT N=28 order=6 conductor=28 size=2 dim=2 cmproxy=0
+ORBIT N=28 order=3 conductor=7 size=2 dim=1 cmproxy=0
+ORBIT N=28 order=2 conductor=28 size=1 dim=2 cmproxy=2
+CHECK N=28 genus(X_1)=10
+DELTA N=28 gens=[ 17, 15 ] idx=1 genus=2 cmproxy=0 C1=true C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=28 gens=[ 13, 15 ] idx=3 genus=4 cmproxy=0 C1=true C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=28 gens=[ 19 ] idx=2 genus=4 cmproxy=2 C1=false C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=28 gens=[ 27 ] idx=6 genus=10 cmproxy=2 C1=true C3_l=3 C3p_l=3 C2=false OK
+SUMMARY N=28 ok=1 fail=3
+DONE

@@ -1,0 +1,5 @@
+ORBIT N=546 order=1 conductor=1 size=1 dim=105 cmproxy=0
+CHECK N=546 (partial genus, characters of order <= 1) 105
+DELTA N=546 gens=[ 379, 157, 365 ] idx=1 genus=105 cmproxy=0 C1=true C3_l=5 C3p_l=5 C2=false OK
+SUMMARY N=546 ok=1 fail=0
+DONE

@@ -1,0 +1,9 @@
+Loading "lib.m"
+Delta=<[ 28 ]> |Delta|=12 g=19 : 4 of 4 characters have S_2 != 0 ; intersection of kernels = Delta ? true
+   dims: [ 5, 10, 4, 10 ]
+Delta=<[ 33 ]> |Delta|=12 g=19 : 4 of 4 characters have S_2 != 0 ; intersection of kernels = Delta ? true
+   dims: [ 5, 10, 4, 10 ]
+Delta=<[ 8 ]> |Delta|=4 g=55 : 12 of 12 characters have S_2 != 0 ; intersection of kernels = Delta ? true
+   dims: [ 5, 20, 8, 10, 8, 20, 4, 20, 8, 10, 8, 20 ]
+Delta=<[ 18 ]> |Delta|=4 g=55 : 12 of 12 characters have S_2 != 0 ; intersection of kernels = Delta ? true
+   dims: [ 5, 20, 8, 10, 8, 20, 4, 20, 8, 10, 8, 20 ]

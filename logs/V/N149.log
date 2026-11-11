@@ -1,0 +1,6 @@
+LEVEL N=149 discs=[] orbits=4
+VAL N=149 type=[ 0 ] order=1 cond=1 dim=12 cm=[]
+VAL N=149 type=[ 2 ] order=74 cond=149 dim=12 cm=[]
+VAL N=149 type=[ 2 ] order=37 cond=149 dim=11 cm=[]
+VAL N=149 type=[ 3 ] order=2 cond=149 dim=12 cm=[]
+DONE

@@ -1,0 +1,7 @@
+ORBIT N=20 order=1 conductor=1 size=1 dim=1 cmproxy=0
+ORBIT N=20 order=4 conductor=20 size=2 dim=1 cmproxy=1
+ORBIT N=20 order=2 conductor=5 size=1 dim=0 cmproxy=0
+CHECK N=20 genus(X_1)=3
+DELTA N=20 gens=[ 19 ] idx=4 genus=3 cmproxy=2 C1=false C3_l=0 C3p_l=0 C2=false FAIL
+SUMMARY N=20 ok=0 fail=1
+DONE

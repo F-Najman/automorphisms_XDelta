@@ -1,0 +1,51 @@
+ORBIT N=493 order=1 conductor=1 size=1 dim=43 cmproxy=0
+ORBIT N=493 order=8 conductor=17 size=4 dim=44 cmproxy=0
+ORBIT N=493 order=4 conductor=17 size=2 dim=42 cmproxy=0
+ORBIT N=493 order=2 conductor=17 size=1 dim=42 cmproxy=0
+ORBIT N=493 order=112 conductor=493 size=48 dim=43 cmproxy=0
+ORBIT N=493 order=112 conductor=493 size=48 dim=43 cmproxy=0
+ORBIT N=493 order=14 conductor=29 size=6 dim=44 cmproxy=0
+ORBIT N=493 order=56 conductor=493 size=24 dim=42 cmproxy=0
+ORBIT N=493 order=28 conductor=493 size=12 dim=44 cmproxy=0
+ORBIT N=493 order=14 conductor=493 size=6 dim=44 cmproxy=0
+ORBIT N=493 order=7 conductor=29 size=6 dim=42 cmproxy=0
+ORBIT N=493 order=56 conductor=493 size=24 dim=44 cmproxy=0
+ORBIT N=493 order=28 conductor=493 size=12 dim=42 cmproxy=0
+ORBIT N=493 order=14 conductor=493 size=6 dim=42 cmproxy=0
+ORBIT N=493 order=16 conductor=493 size=8 dim=43 cmproxy=0
+ORBIT N=493 order=16 conductor=493 size=8 dim=43 cmproxy=0
+ORBIT N=493 order=2 conductor=29 size=1 dim=44 cmproxy=0
+ORBIT N=493 order=8 conductor=493 size=4 dim=42 cmproxy=0
+ORBIT N=493 order=4 conductor=493 size=2 dim=44 cmproxy=0
+ORBIT N=493 order=2 conductor=493 size=1 dim=44 cmproxy=0
+CHECK N=493 genus(X_1)=9633
+DELTA N=493 gens=[ 205, 88 ] idx=1 genus=43 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=493 gens=[ 401, 492 ] idx=2 genus=87 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 99, 220 ] idx=7 genus=295 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 318, 492 ] idx=14 genus=603 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 410, 220 ] idx=2 genus=85 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 176, 86 ] idx=2 genus=87 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 410, 86 ] idx=4 genus=173 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 434, 220 ] idx=14 genus=589 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 99, 86 ] idx=14 genus=603 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 434, 86 ] idx=28 genus=1205 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 480, 220 ] idx=4 genus=169 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 77, 492 ] idx=4 genus=173 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 480, 86 ] idx=8 genus=345 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 30, 220 ] idx=28 genus=1177 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 423, 492 ] idx=28 genus=1205 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 30, 86 ] idx=56 genus=2409 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 375, 492 ] idx=8 genus=345 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 259, 86 ] idx=8 genus=337 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 169, 86 ] idx=16 genus=689 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 273, 407 ] idx=56 genus=2409 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 157, 407 ] idx=56 genus=2353 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 407, 86 ] idx=112 genus=4817 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 259 ] idx=16 genus=681 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 387 ] idx=16 genus=681 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 33 ] idx=32 genus=1377 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 302 ] idx=112 genus=4761 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 157 ] idx=112 genus=4761 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=493 gens=[ 492 ] idx=224 genus=9633 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+SUMMARY N=493 ok=28 fail=0
+DONE

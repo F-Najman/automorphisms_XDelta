@@ -1,0 +1,12 @@
+LEVEL N=126 discs=[ 3, 7 ] orbits=10
+VAL N=126 type=[ 0, 0, 0 ] order=1 cond=1 dim=17 cm=[ 0, 0 ]
+VAL N=126 type=[ 0, 4, 0 ] order=3 cond=9 dim=20 cm=[ 0, 0 ]
+VAL N=126 type=[ 0, 4, 2 ] order=6 cond=63 dim=20 cm=[ 0, 0 ]
+VAL N=126 type=[ 0, 3, 2 ] order=6 cond=21 dim=16 cm=[ 4, 0 ]
+VAL N=126 type=[ 0, 4, 2 ] order=6 cond=63 dim=20 cm=[ 0, 0 ]
+VAL N=126 type=[ 0, 0, 2 ] order=3 cond=7 dim=16 cm=[ 2, 0 ]
+VAL N=126 type=[ 0, 4, 2 ] order=3 cond=63 dim=20 cm=[ 0, 0 ]
+VAL N=126 type=[ 0, 4, 2 ] order=3 cond=63 dim=20 cm=[ 0, 0 ]
+VAL N=126 type=[ 0, 4, 3 ] order=6 cond=63 dim=20 cm=[ 0, 0 ]
+VAL N=126 type=[ 0, 3, 3 ] order=2 cond=21 dim=16 cm=[ 0, 8 ]
+DONE

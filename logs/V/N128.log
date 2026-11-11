@@ -1,0 +1,8 @@
+LEVEL N=128 discs=[ 4, 8 ] orbits=6
+VAL N=128 type=[ 0 ] order=1 cond=1 dim=9 cm=[ 5, 0 ]
+VAL N=128 type=[ 10 ] order=32 cond=128 dim=15 cm=[ 0, 0 ]
+VAL N=128 type=[ 8 ] order=16 cond=64 dim=14 cm=[ 0, 0 ]
+VAL N=128 type=[ 6 ] order=8 cond=32 dim=12 cm=[ 0, 0 ]
+VAL N=128 type=[ 4 ] order=4 cond=16 dim=8 cm=[ 0, 0 ]
+VAL N=128 type=[ 2 ] order=2 cond=8 dim=8 cm=[ 2, 6 ]
+DONE

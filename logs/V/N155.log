@@ -1,0 +1,14 @@
+LEVEL N=155 discs=[ 31, 155 ] orbits=12
+VAL N=155 type=[ 0, 0 ] order=1 cond=1 dim=15 cm=[ 0, 0 ]
+VAL N=155 type=[ 3, 0 ] order=2 cond=5 dim=14 cm=[ 0, 0 ]
+VAL N=155 type=[ 2, 2 ] order=60 cond=155 dim=14 cm=[ 0, 0 ]
+VAL N=155 type=[ 0, 2 ] order=15 cond=31 dim=14 cm=[ 0, 0 ]
+VAL N=155 type=[ 3, 2 ] order=30 cond=155 dim=14 cm=[ 0, 0 ]
+VAL N=155 type=[ 2, 2 ] order=20 cond=155 dim=14 cm=[ 0, 0 ]
+VAL N=155 type=[ 2, 2 ] order=12 cond=155 dim=14 cm=[ 0, 0 ]
+VAL N=155 type=[ 0, 2 ] order=5 cond=31 dim=14 cm=[ 0, 0 ]
+VAL N=155 type=[ 3, 2 ] order=10 cond=155 dim=14 cm=[ 0, 0 ]
+VAL N=155 type=[ 0, 2 ] order=3 cond=31 dim=14 cm=[ 0, 0 ]
+VAL N=155 type=[ 3, 2 ] order=6 cond=155 dim=14 cm=[ 0, 0 ]
+VAL N=155 type=[ 2, 3 ] order=4 cond=155 dim=14 cm=[ 6, 0 ]
+DONE

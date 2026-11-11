@@ -1,0 +1,12 @@
+LEVEL N=136 discs=[ 4, 8, 68, 136 ] orbits=10
+VAL N=136 type=[ 0, 0 ] order=1 cond=1 dim=15 cm=[ 0, 0, 0, 0 ]
+VAL N=136 type=[ 2, 0 ] order=2 cond=8 dim=16 cm=[ 0, 0, 0, 0 ]
+VAL N=136 type=[ 1, 2 ] order=16 cond=68 dim=14 cm=[ 2, 0, 0, 0 ]
+VAL N=136 type=[ 3, 2 ] order=16 cond=136 dim=16 cm=[ 0, 2, 0, 0 ]
+VAL N=136 type=[ 0, 2 ] order=8 cond=17 dim=14 cm=[ 0, 0, 0, 0 ]
+VAL N=136 type=[ 2, 2 ] order=8 cond=136 dim=16 cm=[ 0, 0, 0, 0 ]
+VAL N=136 type=[ 0, 2 ] order=4 cond=17 dim=14 cm=[ 0, 0, 0, 0 ]
+VAL N=136 type=[ 2, 2 ] order=4 cond=136 dim=16 cm=[ 0, 0, 0, 0 ]
+VAL N=136 type=[ 0, 3 ] order=2 cond=17 dim=14 cm=[ 0, 0, 0, 0 ]
+VAL N=136 type=[ 2, 3 ] order=2 cond=136 dim=16 cm=[ 0, 0, 0, 0 ]
+DONE

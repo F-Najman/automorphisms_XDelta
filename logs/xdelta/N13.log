@@ -1,0 +1,8 @@
+ORBIT N=13 order=1 conductor=1 size=1 dim=0 cmproxy=0
+ORBIT N=13 order=6 conductor=13 size=2 dim=1 cmproxy=0
+ORBIT N=13 order=3 conductor=13 size=2 dim=0 cmproxy=0
+ORBIT N=13 order=2 conductor=13 size=1 dim=0 cmproxy=0
+CHECK N=13 genus(X_1)=2
+DELTA N=13 gens=[ 12 ] idx=6 genus=2 cmproxy=0 C1=true C3_l=0 C3p_l=0 C2=false FAIL
+SUMMARY N=13 ok=0 fail=1
+DONE

@@ -1,0 +1,6 @@
+LEVEL N=71 discs=[ 71 ] orbits=4
+VAL N=71 type=[ 0 ] order=1 cond=1 dim=6 cm=[ 0 ]
+VAL N=71 type=[ 2 ] order=35 cond=71 dim=5 cm=[ 0 ]
+VAL N=71 type=[ 2 ] order=7 cond=71 dim=5 cm=[ 0 ]
+VAL N=71 type=[ 2 ] order=5 cond=71 dim=5 cm=[ 0 ]
+DONE

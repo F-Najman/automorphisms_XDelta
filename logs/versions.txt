@@ -1,0 +1,5 @@
+Magma 2.29.4
+SageMath version 10.7, Release Date: 2025-08-09
+Python 3.11.15
+gcc (conda-forge gcc 15.2.0-18) 15.2.0
+Linux 6.8.0-142-generic x86_64

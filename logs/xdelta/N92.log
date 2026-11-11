@@ -1,0 +1,11 @@
+ORBIT N=92 order=1 conductor=1 size=1 dim=10 cmproxy=0
+ORBIT N=92 order=22 conductor=92 size=10 dim=10 cmproxy=0
+ORBIT N=92 order=11 conductor=23 size=10 dim=9 cmproxy=0
+ORBIT N=92 order=2 conductor=92 size=1 dim=10 cmproxy=6
+CHECK N=92 genus(X_1)=210
+DELTA N=92 gens=[ 5, 47 ] idx=1 genus=10 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=false OK
+DELTA N=92 gens=[ 45, 47 ] idx=11 genus=100 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=true OK
+DELTA N=92 gens=[ 67 ] idx=2 genus=20 cmproxy=6 C1=true C3_l=3 C3p_l=5 C2=false OK
+DELTA N=92 gens=[ 91 ] idx=22 genus=210 cmproxy=6 C1=true C3_l=3 C3p_l=3 C2=true OK
+SUMMARY N=92 ok=4 fail=0
+DONE

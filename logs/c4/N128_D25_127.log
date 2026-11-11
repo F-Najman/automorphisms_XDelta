@@ -1,0 +1,5 @@
+N=128 Delta=25,127 discs=[ 4, 8 ] primes inert in all CM fields (<=600): [ 7, 23, 31, 47, 71, 79, 103, 127, 151, 167, 191, 199, 223, 239, 263, 271, 311, 359, 367, 383, 431, 439, 463, 479, 487, 503, 599 ]
+ORBIT cond=1 order=1 size=1 dim=9 cmproxy_by_D=[ 5, 0 ]
+ORBIT cond=8 order=2 size=1 dim=8 cmproxy_by_D=[ 2, 6 ]
+C4CHECK N=128 Delta=25,127 Delta'=[ 5, 127 ] index=2 g'=9 cm'(bound)=[ 5, 0 ] cm_complement=[ 2, 6 ] overlapD=[ 4 ] coprime_any_p=5 coprime_inert_p=0 C1(X_Delta')=false : FAIL
+DONE

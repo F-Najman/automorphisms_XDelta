@@ -1,0 +1,9 @@
+ORBIT N=30 order=1 conductor=1 size=1 dim=3 cmproxy=0
+ORBIT N=30 order=4 conductor=15 size=2 dim=2 cmproxy=0
+ORBIT N=30 order=2 conductor=5 size=1 dim=2 cmproxy=0
+CHECK N=30 genus(X_1)=9
+DELTA N=30 gens=[ 7, 11 ] idx=1 genus=3 cmproxy=0 C1=true C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=30 gens=[ 19, 11 ] idx=2 genus=5 cmproxy=0 C1=true C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=30 gens=[ 29 ] idx=4 genus=9 cmproxy=0 C1=true C3_l=0 C3p_l=0 C2=false FAIL
+SUMMARY N=30 ok=0 fail=3
+DONE

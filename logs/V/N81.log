@@ -1,0 +1,6 @@
+LEVEL N=81 discs=[ 3 ] orbits=4
+VAL N=81 type=[ 0 ] order=1 cond=1 dim=4 cm=[ 2 ]
+VAL N=81 type=[ 8 ] order=27 cond=81 dim=8 cm=[ 0 ]
+VAL N=81 type=[ 6 ] order=9 cond=27 dim=6 cm=[ 0 ]
+VAL N=81 type=[ 4 ] order=3 cond=9 dim=3 cm=[ 1 ]
+DONE

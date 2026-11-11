@@ -1,0 +1,5 @@
+PERDELTA_FAIL N=432 gens=[ 409, 161, 271 ] idx=2 sum=29.000000
+PERDELTA_FAIL N=432 gens=[ 299, 431 ] idx=2 sum=127.00000
+PERDELTA_FAIL N=432 gens=[ 29, 431 ] idx=2 sum=21.000000
+PERDELTA_FAIL N=432 gens=[ 409, 431 ] idx=4 sum=63.000000
+PERDELTA N=432 subgroups=23 fail=4

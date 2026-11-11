@@ -1,0 +1,8 @@
+LEVEL N=52 discs=[ 4, 52 ] orbits=6
+VAL N=52 type=[ 0, 0 ] order=1 cond=1 dim=5 cm=[ 0, 0 ]
+VAL N=52 type=[ 1, 2 ] order=12 cond=52 dim=5 cm=[ 1, 0 ]
+VAL N=52 type=[ 0, 2 ] order=6 cond=13 dim=4 cm=[ 0, 0 ]
+VAL N=52 type=[ 1, 2 ] order=4 cond=52 dim=5 cm=[ 1, 0 ]
+VAL N=52 type=[ 0, 2 ] order=3 cond=13 dim=4 cm=[ 0, 0 ]
+VAL N=52 type=[ 0, 3 ] order=2 cond=13 dim=4 cm=[ 0, 0 ]
+DONE

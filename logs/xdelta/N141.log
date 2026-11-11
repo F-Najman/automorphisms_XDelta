@@ -1,0 +1,11 @@
+ORBIT N=141 order=1 conductor=1 size=1 dim=15 cmproxy=0
+ORBIT N=141 order=46 conductor=141 size=22 dim=14 cmproxy=0
+ORBIT N=141 order=23 conductor=47 size=22 dim=14 cmproxy=0
+ORBIT N=141 order=2 conductor=141 size=1 dim=14 cmproxy=10
+CHECK N=141 genus(X_1)=645
+DELTA N=141 gens=[ 52, 95 ] idx=1 genus=15 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=141 gens=[ 46, 95 ] idx=23 genus=323 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=141 gens=[ 116 ] idx=2 genus=29 cmproxy=10 C1=true C3_l=2 C3p_l=5 C2=false OK
+DELTA N=141 gens=[ 140 ] idx=46 genus=645 cmproxy=10 C1=true C3_l=2 C3p_l=2 C2=true OK
+SUMMARY N=141 ok=4 fail=0
+DONE

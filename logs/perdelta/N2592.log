@@ -1,0 +1,2 @@
+PERDELTA_FAIL N=2592 gens=[ 1379, 1295 ] idx=2 sum=31.000000
+PERDELTA N=2592 subgroups=43 fail=1

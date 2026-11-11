@@ -1,0 +1,12 @@
+LEVEL N=97 discs=[] orbits=10
+VAL N=97 type=[ 0 ] order=1 cond=1 dim=7 cm=[]
+VAL N=97 type=[ 2 ] order=48 cond=97 dim=8 cm=[]
+VAL N=97 type=[ 2 ] order=24 cond=97 dim=7 cm=[]
+VAL N=97 type=[ 2 ] order=16 cond=97 dim=7 cm=[]
+VAL N=97 type=[ 2 ] order=12 cond=97 dim=7 cm=[]
+VAL N=97 type=[ 2 ] order=8 cond=97 dim=6 cm=[]
+VAL N=97 type=[ 2 ] order=6 cond=97 dim=7 cm=[]
+VAL N=97 type=[ 2 ] order=4 cond=97 dim=6 cm=[]
+VAL N=97 type=[ 2 ] order=3 cond=97 dim=7 cm=[]
+VAL N=97 type=[ 3 ] order=2 cond=97 dim=6 cm=[]
+DONE

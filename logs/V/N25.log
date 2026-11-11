@@ -1,0 +1,6 @@
+LEVEL N=25 discs=[] orbits=4
+VAL N=25 type=[ 0 ] order=1 cond=1 dim=0 cm=[]
+VAL N=25 type=[ 4 ] order=10 cond=25 dim=2 cm=[]
+VAL N=25 type=[ 4 ] order=5 cond=25 dim=1 cm=[]
+VAL N=25 type=[ 3 ] order=2 cond=5 dim=0 cm=[]
+DONE

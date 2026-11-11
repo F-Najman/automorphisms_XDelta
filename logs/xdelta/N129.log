@@ -1,0 +1,19 @@
+ORBIT N=129 order=1 conductor=1 size=1 dim=13 cmproxy=0
+ORBIT N=129 order=42 conductor=129 size=12 dim=13 cmproxy=1
+ORBIT N=129 order=21 conductor=43 size=12 dim=13 cmproxy=0
+ORBIT N=129 order=14 conductor=129 size=6 dim=12 cmproxy=0
+ORBIT N=129 order=7 conductor=43 size=6 dim=12 cmproxy=0
+ORBIT N=129 order=6 conductor=129 size=2 dim=13 cmproxy=1
+ORBIT N=129 order=3 conductor=43 size=2 dim=13 cmproxy=0
+ORBIT N=129 order=2 conductor=129 size=1 dim=12 cmproxy=0
+CHECK N=129 genus(X_1)=533
+DELTA N=129 gens=[ 46, 44 ] idx=1 genus=13 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=129 gens=[ 70, 44 ] idx=3 genus=39 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=129 gens=[ 37, 44 ] idx=7 genus=85 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=129 gens=[ 85, 44 ] idx=21 genus=267 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=129 gens=[ 77 ] idx=2 genus=25 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=129 gens=[ 2 ] idx=6 genus=77 cmproxy=2 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=129 gens=[ 50 ] idx=14 genus=169 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=129 gens=[ 128 ] idx=42 genus=533 cmproxy=14 C1=true C3_l=2 C3p_l=2 C2=true OK
+SUMMARY N=129 ok=8 fail=0
+DONE

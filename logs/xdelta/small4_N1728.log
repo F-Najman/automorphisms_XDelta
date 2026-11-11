@@ -1,0 +1,18 @@
+ORBIT N=1728 order=1 conductor=1 size=1 dim=253 cmproxy=72
+ORBIT N=1728 order=4 conductor=16 size=2 dim=264 cmproxy=0
+ORBIT N=1728 order=2 conductor=8 size=1 dim=252 cmproxy=76
+ORBIT N=1728 order=3 conductor=9 size=2 dim=252 cmproxy=0
+ORBIT N=1728 order=2 conductor=12 size=1 dim=252 cmproxy=80
+ORBIT N=1728 order=4 conductor=48 size=2 dim=264 cmproxy=0
+ORBIT N=1728 order=2 conductor=24 size=1 dim=252 cmproxy=76
+CHECK N=1728 (partial genus, characters of order <= 4) 2569
+DELTA N=1728 gens=[ 325, 1217, 703 ] idx=1 genus=253 cmproxy=72 C1=true C3_l=5 C3p_l=5 C2=true OK
+DELTA N=1728 gens=[ 1493, 161, 703 ] idx=3 genus=757 cmproxy=72 C1=true C3_l=5 C3p_l=5 C2=true OK
+DELTA N=1728 gens=[ 1705, 161, 703 ] idx=2 genus=505 cmproxy=148 C1=true C3_l=5 C3p_l=5 C2=true OK
+DELTA N=1728 gens=[ 529, 161, 703 ] idx=4 genus=1033 cmproxy=148 C1=true C3_l=5 C3p_l=5 C2=true OK
+DELTA N=1728 gens=[ 83, 863 ] idx=2 genus=505 cmproxy=152 C1=true C3_l=5 C3p_l=5 C2=true OK
+DELTA N=1728 gens=[ 461, 863 ] idx=2 genus=505 cmproxy=148 C1=true C3_l=5 C3p_l=5 C2=true OK
+DELTA N=1728 gens=[ 1705, 863 ] idx=4 genus=1009 cmproxy=304 C1=true C3_l=5 C3p_l=5 C2=true OK
+DELTA N=1728 gens=[ 247, 863 ] idx=4 genus=1033 cmproxy=148 C1=true C3_l=5 C3p_l=5 C2=true OK
+SUMMARY N=1728 ok=8 fail=0
+DONE

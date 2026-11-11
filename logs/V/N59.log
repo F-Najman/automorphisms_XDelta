@@ -1,0 +1,4 @@
+LEVEL N=59 discs=[ 59 ] orbits=2
+VAL N=59 type=[ 0 ] order=1 cond=1 dim=5 cm=[ 0 ]
+VAL N=59 type=[ 2 ] order=29 cond=59 dim=4 cm=[ 0 ]
+DONE

@@ -1,0 +1,11 @@
+ORBIT N=98 order=1 conductor=1 size=1 dim=7 cmproxy=2
+ORBIT N=98 order=21 conductor=49 size=12 dim=12 cmproxy=0
+ORBIT N=98 order=7 conductor=49 size=6 dim=12 cmproxy=0
+ORBIT N=98 order=3 conductor=7 size=2 dim=6 cmproxy=2
+CHECK N=98 genus(X_1)=235
+DELTA N=98 gens=[ 3 ] idx=1 genus=7 cmproxy=2 C1=true C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=98 gens=[ 27 ] idx=3 genus=19 cmproxy=6 C1=true C3_l=3 C3p_l=3 C2=false OK
+DELTA N=98 gens=[ 31 ] idx=7 genus=79 cmproxy=2 C1=true C3_l=3 C3p_l=3 C2=true OK
+DELTA N=98 gens=[ 97 ] idx=21 genus=235 cmproxy=6 C1=true C3_l=3 C3p_l=3 C2=true OK
+SUMMARY N=98 ok=3 fail=1
+DONE

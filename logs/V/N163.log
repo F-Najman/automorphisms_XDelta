@@ -1,0 +1,7 @@
+LEVEL N=163 discs=[ 163 ] orbits=5
+VAL N=163 type=[ 0 ] order=1 cond=1 dim=13 cm=[ 0 ]
+VAL N=163 type=[ 2 ] order=81 cond=163 dim=13 cm=[ 0 ]
+VAL N=163 type=[ 2 ] order=27 cond=163 dim=12 cm=[ 0 ]
+VAL N=163 type=[ 2 ] order=9 cond=163 dim=12 cm=[ 0 ]
+VAL N=163 type=[ 2 ] order=3 cond=163 dim=12 cm=[ 0 ]
+DONE

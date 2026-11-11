@@ -1,0 +1,5 @@
+LEVEL N=243 discs=[ 3 ] orbits=3
+VAL N=243 type=[ 0 ] order=1 cond=1 dim=19 cm=[ 5 ]
+VAL N=243 type=[ 6 ] order=9 cond=27 dim=18 cm=[ 0 ]
+VAL N=243 type=[ 4 ] order=3 cond=9 dim=18 cm=[ 4 ]
+DONE

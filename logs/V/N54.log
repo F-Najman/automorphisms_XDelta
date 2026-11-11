@@ -1,0 +1,5 @@
+LEVEL N=54 discs=[ 3 ] orbits=3
+VAL N=54 type=[ 0, 0 ] order=1 cond=1 dim=4 cm=[ 2 ]
+VAL N=54 type=[ 0, 6 ] order=9 cond=27 dim=7 cm=[ 0 ]
+VAL N=54 type=[ 0, 4 ] order=3 cond=9 dim=3 cm=[ 0 ]
+DONE

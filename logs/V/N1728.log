@@ -1,0 +1,6 @@
+LEVEL N=1728 discs=[ 3, 4, 8, 24 ] orbits=4
+VAL N=1728 type=[ 0, 0 ] order=1 cond=1 dim=253 cm=[ 42, 30, 0, 0 ]
+VAL N=1728 type=[ 2, 0 ] order=2 cond=8 dim=252 cm=[ 16, 0, 12, 48 ]
+VAL N=1728 type=[ 1, 3 ] order=2 cond=12 dim=252 cm=[ 40, 40, 0, 0 ]
+VAL N=1728 type=[ 3, 3 ] order=2 cond=24 dim=252 cm=[ 20, 0, 36, 20 ]
+DONE

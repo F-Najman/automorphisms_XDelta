@@ -1,0 +1,5 @@
+Index 1 failures above 500: 105 ; maximum 840
+Index 2 failures above 500: []
+Index 4 failures above 200: [210]
+Exactly 113 additional X_0 certificates are required and listed.
+ALL CHECKS PASSED

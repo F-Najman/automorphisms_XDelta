@@ -1,0 +1,11 @@
+ORBIT N=478 order=1 conductor=1 size=1 dim=59 cmproxy=0
+ORBIT N=478 order=119 conductor=239 size=96 dim=58 cmproxy=0
+ORBIT N=478 order=17 conductor=239 size=16 dim=58 cmproxy=0
+ORBIT N=478 order=7 conductor=239 size=6 dim=58 cmproxy=0
+CHECK N=478 genus(X_1)=6903
+DELTA N=478 gens=[ 7 ] idx=1 genus=59 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=false OK
+DELTA N=478 gens=[ 427 ] idx=7 genus=407 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=true OK
+DELTA N=478 gens=[ 195 ] idx=17 genus=987 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=true OK
+DELTA N=478 gens=[ 477 ] idx=119 genus=6903 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=true OK
+SUMMARY N=478 ok=4 fail=0
+DONE

@@ -1,0 +1,5 @@
+LEVEL N=16 discs=[ 4, 8 ] orbits=3
+VAL N=16 type=[ 0 ] order=1 cond=1 dim=0 cm=[ 0, 0 ]
+VAL N=16 type=[ 4 ] order=4 cond=16 dim=1 cm=[ 0, 0 ]
+VAL N=16 type=[ 2 ] order=2 cond=8 dim=0 cm=[ 0, 0 ]
+DONE

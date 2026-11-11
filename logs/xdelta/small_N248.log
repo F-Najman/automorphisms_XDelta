@@ -1,0 +1,13 @@
+ORBIT N=248 order=1 conductor=1 size=1 dim=29 cmproxy=0
+ORBIT N=248 order=2 conductor=8 size=1 dim=30 cmproxy=0
+ORBIT N=248 order=3 conductor=31 size=2 dim=28 cmproxy=0
+ORBIT N=248 order=2 conductor=124 size=1 dim=28 cmproxy=12
+ORBIT N=248 order=2 conductor=248 size=1 dim=30 cmproxy=6
+CHECK N=248 (partial genus, characters of order <= 3) 173
+DELTA N=248 gens=[ 65, 125, 63 ] idx=1 genus=29 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=false OK
+DELTA N=248 gens=[ 89, 125, 63 ] idx=3 genus=85 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=true OK
+DELTA N=248 gens=[ 65, 63 ] idx=2 genus=59 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=false OK
+DELTA N=248 gens=[ 127, 125 ] idx=2 genus=57 cmproxy=12 C1=true C3_l=3 C3p_l=3 C2=false OK
+DELTA N=248 gens=[ 239, 61 ] idx=2 genus=59 cmproxy=6 C1=true C3_l=3 C3p_l=3 C2=false OK
+SUMMARY N=248 ok=5 fail=0
+DONE

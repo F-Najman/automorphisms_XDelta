@@ -1,0 +1,10 @@
+LEVEL N=77 discs=[ 7, 11 ] orbits=8
+VAL N=77 type=[ 0, 0 ] order=1 cond=1 dim=7 cm=[ 0, 0 ]
+VAL N=77 type=[ 2, 0 ] order=3 cond=7 dim=6 cm=[ 0, 0 ]
+VAL N=77 type=[ 2, 2 ] order=30 cond=77 dim=6 cm=[ 0, 0 ]
+VAL N=77 type=[ 3, 2 ] order=10 cond=77 dim=6 cm=[ 2, 0 ]
+VAL N=77 type=[ 0, 2 ] order=5 cond=11 dim=6 cm=[ 0, 0 ]
+VAL N=77 type=[ 2, 2 ] order=15 cond=77 dim=6 cm=[ 0, 0 ]
+VAL N=77 type=[ 2, 3 ] order=6 cond=77 dim=6 cm=[ 0, 0 ]
+VAL N=77 type=[ 3, 3 ] order=2 cond=77 dim=6 cm=[ 2, 0 ]
+DONE

@@ -1,0 +1,4 @@
+LEVEL N=1250 discs=[] orbits=2
+VAL N=1250 type=[ 0, 0 ] order=1 cond=1 dim=158 cm=[]
+VAL N=1250 type=[ 0, 3 ] order=2 cond=5 dim=158 cm=[]
+DONE

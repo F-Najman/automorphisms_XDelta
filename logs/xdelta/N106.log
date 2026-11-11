@@ -1,0 +1,11 @@
+ORBIT N=106 order=1 conductor=1 size=1 dim=12 cmproxy=0
+ORBIT N=106 order=26 conductor=53 size=12 dim=12 cmproxy=0
+ORBIT N=106 order=13 conductor=53 size=12 dim=11 cmproxy=0
+ORBIT N=106 order=2 conductor=53 size=1 dim=12 cmproxy=0
+CHECK N=106 genus(X_1)=300
+DELTA N=106 gens=[ 55 ] idx=1 genus=12 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=false OK
+DELTA N=106 gens=[ 57 ] idx=2 genus=24 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=false OK
+DELTA N=106 gens=[ 83 ] idx=13 genus=144 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=true OK
+DELTA N=106 gens=[ 105 ] idx=26 genus=300 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=true OK
+SUMMARY N=106 ok=4 fail=0
+DONE

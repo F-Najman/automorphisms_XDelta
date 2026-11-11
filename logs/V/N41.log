@@ -1,0 +1,8 @@
+LEVEL N=41 discs=[] orbits=6
+VAL N=41 type=[ 0 ] order=1 cond=1 dim=3 cm=[]
+VAL N=41 type=[ 2 ] order=20 cond=41 dim=3 cm=[]
+VAL N=41 type=[ 2 ] order=10 cond=41 dim=2 cm=[]
+VAL N=41 type=[ 2 ] order=5 cond=41 dim=2 cm=[]
+VAL N=41 type=[ 2 ] order=4 cond=41 dim=3 cm=[]
+VAL N=41 type=[ 3 ] order=2 cond=41 dim=2 cm=[]
+DONE

@@ -1,0 +1,6 @@
+LEVEL N=139 discs=[ 139 ] orbits=4
+VAL N=139 type=[ 0 ] order=1 cond=1 dim=11 cm=[ 0 ]
+VAL N=139 type=[ 2 ] order=69 cond=139 dim=11 cm=[ 0 ]
+VAL N=139 type=[ 2 ] order=23 cond=139 dim=10 cm=[ 0 ]
+VAL N=139 type=[ 2 ] order=3 cond=139 dim=11 cm=[ 0 ]
+DONE

@@ -1,0 +1,13 @@
+ORBIT N=444 order=1 conductor=1 size=1 dim=71 cmproxy=0
+ORBIT N=444 order=2 conductor=12 size=1 dim=72 cmproxy=0
+ORBIT N=444 order=3 conductor=37 size=2 dim=70 cmproxy=0
+ORBIT N=444 order=2 conductor=37 size=1 dim=70 cmproxy=0
+ORBIT N=444 order=2 conductor=444 size=1 dim=72 cmproxy=16
+CHECK N=444 (partial genus, characters of order <= 3) 425
+DELTA N=444 gens=[ 409, 149, 223 ] idx=1 genus=71 cmproxy=0 C1=true C3_l=5 C3p_l=5 C2=false OK
+DELTA N=444 gens=[ 337, 149, 223 ] idx=2 genus=141 cmproxy=0 C1=true C3_l=5 C3p_l=5 C2=true OK
+DELTA N=444 gens=[ 193, 149, 223 ] idx=3 genus=211 cmproxy=0 C1=true C3_l=5 C3p_l=5 C2=true OK
+DELTA N=444 gens=[ 409, 371 ] idx=2 genus=143 cmproxy=0 C1=true C3_l=5 C3p_l=5 C2=true OK
+DELTA N=444 gens=[ 331, 371 ] idx=2 genus=143 cmproxy=16 C1=true C3_l=5 C3p_l=5 C2=true OK
+SUMMARY N=444 ok=5 fail=0
+DONE

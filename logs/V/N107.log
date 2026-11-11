@@ -1,0 +1,4 @@
+LEVEL N=107 discs=[ 107 ] orbits=2
+VAL N=107 type=[ 0 ] order=1 cond=1 dim=9 cm=[ 0 ]
+VAL N=107 type=[ 2 ] order=53 cond=107 dim=8 cm=[ 0 ]
+DONE

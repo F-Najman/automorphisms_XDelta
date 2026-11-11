@@ -1,0 +1,12 @@
+LEVEL N=85 discs=[] orbits=10
+VAL N=85 type=[ 0, 0 ] order=1 cond=1 dim=7 cm=[]
+VAL N=85 type=[ 3, 0 ] order=2 cond=5 dim=8 cm=[]
+VAL N=85 type=[ 2, 2 ] order=16 cond=85 dim=7 cm=[]
+VAL N=85 type=[ 2, 2 ] order=16 cond=85 dim=7 cm=[]
+VAL N=85 type=[ 0, 2 ] order=8 cond=17 dim=8 cm=[]
+VAL N=85 type=[ 3, 2 ] order=8 cond=85 dim=6 cm=[]
+VAL N=85 type=[ 0, 2 ] order=4 cond=17 dim=6 cm=[]
+VAL N=85 type=[ 3, 2 ] order=4 cond=85 dim=8 cm=[]
+VAL N=85 type=[ 0, 3 ] order=2 cond=17 dim=6 cm=[]
+VAL N=85 type=[ 3, 3 ] order=2 cond=85 dim=8 cm=[]
+DONE

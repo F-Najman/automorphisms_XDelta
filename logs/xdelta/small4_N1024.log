@@ -1,0 +1,9 @@
+ORBIT N=1024 order=1 conductor=1 size=1 dim=105 cmproxy=41
+ORBIT N=1024 order=4 conductor=16 size=2 dim=104 cmproxy=20
+ORBIT N=1024 order=2 conductor=8 size=1 dim=104 cmproxy=44
+CHECK N=1024 (partial genus, characters of order <= 4) 417
+DELTA N=1024 gens=[ 5, 1023 ] idx=1 genus=105 cmproxy=41 C1=true C3_l=3 C3p_l=3 C2=true OK
+DELTA N=1024 gens=[ 25, 1023 ] idx=2 genus=209 cmproxy=85 C1=true C3_l=3 C3p_l=3 C2=true OK
+DELTA N=1024 gens=[ 625, 1023 ] idx=4 genus=417 cmproxy=125 C1=true C3_l=3 C3p_l=3 C2=true OK
+SUMMARY N=1024 ok=3 fail=0
+DONE

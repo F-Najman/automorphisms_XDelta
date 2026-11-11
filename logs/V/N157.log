@@ -1,0 +1,10 @@
+LEVEL N=157 discs=[] orbits=8
+VAL N=157 type=[ 0 ] order=1 cond=1 dim=12 cm=[]
+VAL N=157 type=[ 2 ] order=78 cond=157 dim=13 cm=[]
+VAL N=157 type=[ 2 ] order=39 cond=157 dim=12 cm=[]
+VAL N=157 type=[ 2 ] order=26 cond=157 dim=12 cm=[]
+VAL N=157 type=[ 2 ] order=13 cond=157 dim=11 cm=[]
+VAL N=157 type=[ 2 ] order=6 cond=157 dim=13 cm=[]
+VAL N=157 type=[ 2 ] order=3 cond=157 dim=12 cm=[]
+VAL N=157 type=[ 3 ] order=2 cond=157 dim=12 cm=[]
+DONE

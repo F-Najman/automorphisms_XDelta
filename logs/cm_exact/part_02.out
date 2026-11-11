@@ -1,0 +1,22 @@
+FAIL N=4 theta=-0.50 bestV>=0.00 opt=1.00 nD=1
+FAIL N=12 theta=-0.50 bestV>=0.00 opt=7.00 nD=2
+FAIL N=20 theta=0.00 bestV>=0.00 opt=6.00 nD=2
+FAIL N=28 theta=0.50 bestV>=2.00 opt=6.00 nD=2
+FAIL N=36 theta=0.00 bestV>=0.00 opt=16.00 nD=2
+FAIL N=52 theta=2.00 bestV>=2.00 opt=6.00 nD=2
+FAIL N=60 theta=3.00 bestV>=4.00 opt=26.00 nD=4
+FAIL N=84 theta=5.00 bestV>=10.00 opt=30.00 nD=4
+FAIL N=92 theta=4.50 bestV>=6.00 opt=14.00 nD=2
+FAIL N=100 theta=3.00 bestV>=8.00 opt=12.00 nD=2
+FAIL N=108 theta=4.50 bestV>=20.00 opt=35.00 nD=2
+FAIL N=132 theta=9.00 bestV>=10.00 opt=32.00 nD=4
+FAIL N=180 theta=12.00 bestV>=12.00 opt=54.00 nD=4
+FAIL N=196 theta=8.00 bestV>=12.00 opt=17.00 nD=2
+FAIL N=252 theta=18.00 bestV>=32.00 opt=64.00 nD=4
+FAIL N=300 theta=21.00 bestV>=36.00 opt=74.00 nD=4
+FAIL N=324 theta=18.00 bestV>=35.00 opt=62.00 nD=2
+FAIL N=540 theta=45.00 bestV>=48.00 opt=114.00 nD=4
+FAIL N=756 theta=63.00 bestV>=74.00 opt=126.00 nD=4
+FAIL N=900 theta=72.00 bestV>=72.00 opt=158.00 nD=4
+FAIL N=972 theta=67.50 bestV>=80.00 opt=119.00 nD=2
+SUMMARY checked=296286 fail=21

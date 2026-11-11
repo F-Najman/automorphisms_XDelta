@@ -1,0 +1,7 @@
+ORBIT N=359 order=1 conductor=1 size=1 dim=30 cmproxy=0
+ORBIT N=359 order=179 conductor=359 size=178 dim=29 cmproxy=0
+CHECK N=359 genus(X_1)=5192
+DELTA N=359 gens=[ 7 ] idx=1 genus=30 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=359 gens=[ 358 ] idx=179 genus=5192 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+SUMMARY N=359 ok=2 fail=0
+DONE

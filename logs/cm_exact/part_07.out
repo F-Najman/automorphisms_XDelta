@@ -1,0 +1,10 @@
+FAIL N=9 theta=-0.50 bestV>=0.00 opt=2.00 nD=1
+FAIL N=17 theta=0.00 bestV>=0.00 opt=0.00 nD=0
+FAIL N=25 theta=-0.50 bestV>=0.00 opt=0.00 nD=0
+FAIL N=33 theta=1.00 bestV>=2.00 opt=4.00 nD=2
+FAIL N=49 theta=0.00 bestV>=0.00 opt=3.00 nD=1
+FAIL N=57 theta=2.00 bestV>=2.00 opt=6.00 nD=2
+FAIL N=81 theta=1.50 bestV>=7.00 opt=8.00 nD=1
+FAIL N=225 theta=9.00 bestV>=10.00 opt=26.00 nD=2
+FAIL N=441 theta=20.00 bestV>=24.00 opt=30.00 nD=2
+SUMMARY checked=296285 fail=9

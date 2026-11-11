@@ -1,0 +1,16 @@
+LEVEL N=160 discs=[ 4, 8, 20, 40 ] orbits=14
+VAL N=160 type=[ 0, 0 ] order=1 cond=1 dim=17 cm=[ 2, 0, 0, 0 ]
+VAL N=160 type=[ 6, 0 ] order=8 cond=32 dim=22 cm=[ 0, 0, 0, 0 ]
+VAL N=160 type=[ 4, 0 ] order=4 cond=16 dim=20 cm=[ 0, 0, 0, 0 ]
+VAL N=160 type=[ 2, 0 ] order=2 cond=8 dim=16 cm=[ 0, 0, 0, 0 ]
+VAL N=160 type=[ 1, 2 ] order=4 cond=20 dim=16 cm=[ 6, 0, 0, 0 ]
+VAL N=160 type=[ 7, 2 ] order=8 cond=160 dim=22 cm=[ 0, 0, 0, 0 ]
+VAL N=160 type=[ 5, 2 ] order=4 cond=80 dim=20 cm=[ 0, 0, 0, 0 ]
+VAL N=160 type=[ 7, 2 ] order=8 cond=160 dim=22 cm=[ 0, 0, 0, 0 ]
+VAL N=160 type=[ 3, 2 ] order=4 cond=40 dim=16 cm=[ 0, 0, 0, 0 ]
+VAL N=160 type=[ 5, 2 ] order=4 cond=80 dim=20 cm=[ 0, 0, 0, 0 ]
+VAL N=160 type=[ 0, 3 ] order=2 cond=5 dim=16 cm=[ 2, 0, 4, 0 ]
+VAL N=160 type=[ 6, 3 ] order=8 cond=160 dim=22 cm=[ 0, 0, 0, 0 ]
+VAL N=160 type=[ 4, 3 ] order=4 cond=80 dim=20 cm=[ 0, 0, 0, 0 ]
+VAL N=160 type=[ 2, 3 ] order=2 cond=40 dim=16 cm=[ 0, 0, 0, 0 ]
+DONE

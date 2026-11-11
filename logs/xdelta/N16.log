@@ -1,0 +1,7 @@
+ORBIT N=16 order=1 conductor=1 size=1 dim=0 cmproxy=0
+ORBIT N=16 order=4 conductor=16 size=2 dim=1 cmproxy=0
+ORBIT N=16 order=2 conductor=8 size=1 dim=0 cmproxy=0
+CHECK N=16 genus(X_1)=2
+DELTA N=16 gens=[ 15 ] idx=4 genus=2 cmproxy=0 C1=true C3_l=0 C3p_l=0 C2=false FAIL
+SUMMARY N=16 ok=0 fail=1
+DONE

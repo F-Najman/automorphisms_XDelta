@@ -1,0 +1,10 @@
+LEVEL N=61 discs=[] orbits=8
+VAL N=61 type=[ 0 ] order=1 cond=1 dim=4 cm=[]
+VAL N=61 type=[ 2 ] order=30 cond=61 dim=5 cm=[]
+VAL N=61 type=[ 2 ] order=15 cond=61 dim=4 cm=[]
+VAL N=61 type=[ 2 ] order=10 cond=61 dim=4 cm=[]
+VAL N=61 type=[ 2 ] order=6 cond=61 dim=5 cm=[]
+VAL N=61 type=[ 2 ] order=5 cond=61 dim=3 cm=[]
+VAL N=61 type=[ 2 ] order=3 cond=61 dim=4 cm=[]
+VAL N=61 type=[ 3 ] order=2 cond=61 dim=4 cm=[]
+DONE

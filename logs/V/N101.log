@@ -1,0 +1,8 @@
+LEVEL N=101 discs=[] orbits=6
+VAL N=101 type=[ 0 ] order=1 cond=1 dim=8 cm=[]
+VAL N=101 type=[ 2 ] order=50 cond=101 dim=8 cm=[]
+VAL N=101 type=[ 2 ] order=25 cond=101 dim=7 cm=[]
+VAL N=101 type=[ 2 ] order=10 cond=101 dim=8 cm=[]
+VAL N=101 type=[ 2 ] order=5 cond=101 dim=7 cm=[]
+VAL N=101 type=[ 3 ] order=2 cond=101 dim=8 cm=[]
+DONE

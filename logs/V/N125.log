@@ -1,0 +1,8 @@
+LEVEL N=125 discs=[] orbits=6
+VAL N=125 type=[ 0 ] order=1 cond=1 dim=8 cm=[]
+VAL N=125 type=[ 6 ] order=50 cond=125 dim=12 cm=[]
+VAL N=125 type=[ 6 ] order=25 cond=125 dim=11 cm=[]
+VAL N=125 type=[ 4 ] order=10 cond=25 dim=8 cm=[]
+VAL N=125 type=[ 4 ] order=5 cond=25 dim=7 cm=[]
+VAL N=125 type=[ 3 ] order=2 cond=5 dim=8 cm=[]
+DONE

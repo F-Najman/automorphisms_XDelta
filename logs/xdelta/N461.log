@@ -1,0 +1,19 @@
+ORBIT N=461 order=1 conductor=1 size=1 dim=38 cmproxy=0
+ORBIT N=461 order=230 conductor=461 size=88 dim=38 cmproxy=0
+ORBIT N=461 order=115 conductor=461 size=88 dim=37 cmproxy=0
+ORBIT N=461 order=46 conductor=461 size=22 dim=38 cmproxy=0
+ORBIT N=461 order=23 conductor=461 size=22 dim=37 cmproxy=0
+ORBIT N=461 order=10 conductor=461 size=4 dim=38 cmproxy=0
+ORBIT N=461 order=5 conductor=461 size=4 dim=37 cmproxy=0
+ORBIT N=461 order=2 conductor=461 size=1 dim=38 cmproxy=0
+CHECK N=461 genus(X_1)=8626
+DELTA N=461 gens=[ 2 ] idx=1 genus=38 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=461 gens=[ 4 ] idx=2 genus=76 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=461 gens=[ 32 ] idx=5 genus=186 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=461 gens=[ 102 ] idx=10 genus=376 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=461 gens=[ 252 ] idx=23 genus=852 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=461 gens=[ 347 ] idx=46 genus=1726 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=461 gens=[ 48 ] idx=115 genus=4256 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=461 gens=[ 460 ] idx=230 genus=8626 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+SUMMARY N=461 ok=8 fail=0
+DONE

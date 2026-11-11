@@ -1,0 +1,42 @@
+NORMALIZER N=21 Delta=[ 1, 8, 13, 20 ] h=1 |N(G0)/G0|=4 normalising=4 |D_Delta|=3 |Norm/Gamma_Delta|=12 |B_Delta|=12
+NORMALIZER N=24 Delta=[ 1, 7, 17, 23 ] h=2 |N(G0)/G0|=16 normalising=4 |D_Delta|=2 |Norm/Gamma_Delta|=8 |B_Delta|=8
+NORMALIZER N=24 Delta=[ 1, 5, 19, 23 ] h=2 |N(G0)/G0|=16 normalising=4 |D_Delta|=2 |Norm/Gamma_Delta|=8 |B_Delta|=8
+NORMALIZER N=25 Delta=[ 1, 7, 18, 24 ] h=1 |N(G0)/G0|=2 normalising=2 |D_Delta|=5 |Norm/Gamma_Delta|=10 |B_Delta|=10
+NORMALIZER N=26 Delta=[ 1, 3, 9, 17, 23, 25 ] h=1 |N(G0)/G0|=4 normalising=4 |D_Delta|=2 |Norm/Gamma_Delta|=8 |B_Delta|=8
+NORMALIZER N=26 Delta=[ 1, 5, 21, 25 ] h=1 |N(G0)/G0|=4 normalising=4 |D_Delta|=3 |Norm/Gamma_Delta|=12 |B_Delta|=12
+NORMALIZER N=28 Delta=[ 1, 13, 15, 27 ] h=2 |N(G0)/G0|=12 normalising=12 |D_Delta|=3 |Norm/Gamma_Delta|=36 |B_Delta|=12
+NORMALIZER N=28 Delta=[ 1, 3, 9, 19, 25, 27 ] h=2 |N(G0)/G0|=12 normalising=4 |D_Delta|=2 |Norm/Gamma_Delta|=8 |B_Delta|=8
+NORMALIZER N=30 Delta=[ 1, 11, 19, 29 ] h=1 |N(G0)/G0|=8 normalising=8 |D_Delta|=2 |Norm/Gamma_Delta|=16 |B_Delta|=16
+NORMALIZER N=31 Delta=[ 1, 5, 6, 25, 26, 30 ] h=1 |N(G0)/G0|=2 normalising=2 |D_Delta|=5 |Norm/Gamma_Delta|=10 |B_Delta|=10
+NORMALIZER N=32 Delta=[ 1, 15, 17, 31 ] h=4 |N(G0)/G0|=32 normalising=8 |D_Delta|=4 |Norm/Gamma_Delta|=32 |B_Delta|=8
+NORMALIZER N=33 Delta=[ 1, 2, 4, 8, 16, 17, 25, 29, 31, 32 ] h=1 |N(G0)/G0|=4 normalising=4 |D_Delta|=2 |Norm/Gamma_Delta|=8 |B_Delta|=8
+NORMALIZER N=36 Delta=[ 1, 17, 19, 35 ] h=6 |N(G0)/G0|=72 normalising=12 |D_Delta|=3 |Norm/Gamma_Delta|=36 |B_Delta|=12
+NORMALIZER N=36 Delta=[ 1, 11, 13, 23, 25, 35 ] h=6 |N(G0)/G0|=72 normalising=24 |D_Delta|=2 |Norm/Gamma_Delta|=48 |B_Delta|=8
+NORMALIZER N=37 Delta=[ 1, 6, 8, 10, 11, 14, 23, 26, 27, 29, 31, 36 ] h=1 |N(G0)/G0|=2 normalising=2 |D_Delta|=3 |Norm/Gamma_Delta|=6 |B_Delta|=6
+NORMALIZER N=40 Delta=[ 1, 3, 9, 13, 27, 31, 37, 39 ] h=2 |N(G0)/G0|=16 normalising=4 |D_Delta|=2 |Norm/Gamma_Delta|=8 |B_Delta|=8
+NORMALIZER N=40 Delta=[ 1, 19, 21, 39 ] h=2 |N(G0)/G0|=16 normalising=16 |D_Delta|=4 |Norm/Gamma_Delta|=64 |B_Delta|=16
+NORMALIZER N=40 Delta=[ 1, 9, 11, 19, 21, 29, 31, 39 ] h=2 |N(G0)/G0|=16 normalising=16 |D_Delta|=2 |Norm/Gamma_Delta|=32 |B_Delta|=8
+NORMALIZER N=42 Delta=[ 1, 5, 17, 25, 37, 41 ] h=1 |N(G0)/G0|=8 normalising=8 |D_Delta|=2 |Norm/Gamma_Delta|=16 |B_Delta|=16
+NORMALIZER N=44 Delta=[ 1, 5, 7, 9, 19, 25, 35, 37, 39, 43 ] h=2 |N(G0)/G0|=12 normalising=4 |D_Delta|=2 |Norm/Gamma_Delta|=8 |B_Delta|=8
+NORMALIZER N=45 Delta=[ 1, 4, 11, 14, 16, 19, 26, 29, 31, 34, 41, 44 ] h=3 |N(G0)/G0|=24 normalising=24 |D_Delta|=2 |Norm/Gamma_Delta|=48 |B_Delta|=8
+NORMALIZER N=48 Delta=[ 1, 5, 19, 23, 25, 29, 43, 47 ] h=4 |N(G0)/G0|=48 normalising=16 |D_Delta|=2 |Norm/Gamma_Delta|=32 |B_Delta|=8
+NORMALIZER N=48 Delta=[ 1, 7, 17, 23, 25, 31, 41, 47 ] h=4 |N(G0)/G0|=48 normalising=16 |D_Delta|=2 |Norm/Gamma_Delta|=32 |B_Delta|=8
+NORMALIZER N=48 Delta=[ 1, 23, 25, 47 ] h=4 |N(G0)/G0|=48 normalising=16 |D_Delta|=4 |Norm/Gamma_Delta|=64 |B_Delta|=16
+NORMALIZER N=48 Delta=[ 1, 11, 13, 23, 25, 35, 37, 47 ] h=4 |N(G0)/G0|=48 normalising=48 |D_Delta|=2 |Norm/Gamma_Delta|=96 |B_Delta|=8
+NORMALIZER N=49 Delta=[ 1, 6, 8, 13, 15, 20, 22, 27, 29, 34, 36, 41, 43, 48 ] h=1 |N(G0)/G0|=2 normalising=2 |D_Delta|=3 |Norm/Gamma_Delta|=6 |B_Delta|=6
+NORMALIZER N=50 Delta=[ 1, 9, 11, 19, 21, 29, 31, 39, 41, 49 ] h=1 |N(G0)/G0|=4 normalising=4 |D_Delta|=2 |Norm/Gamma_Delta|=8 |B_Delta|=8
+NORMALIZER N=54 Delta=[ 1, 17, 19, 35, 37, 53 ] h=3 |N(G0)/G0|=36 normalising=36 |D_Delta|=3 |Norm/Gamma_Delta|=108 |B_Delta|=12
+NORMALIZER N=56 Delta=[ 1, 3, 9, 19, 25, 27, 29, 31, 37, 47, 53, 55 ] h=2 |N(G0)/G0|=16 normalising=16 |D_Delta|=2 |Norm/Gamma_Delta|=32 |B_Delta|=8
+NORMALIZER N=60 Delta=[ 1, 7, 11, 17, 43, 49, 53, 59 ] h=2 |N(G0)/G0|=24 normalising=8 |D_Delta|=2 |Norm/Gamma_Delta|=16 |B_Delta|=16
+NORMALIZER N=63 Delta=[ 1, 4, 5, 16, 17, 20, 22, 25, 26, 37, 38, 41, 43, 46, 47, 58, 59, 62 ] h=3 |N(G0)/G0|=24 normalising=24 |D_Delta|=2 |Norm/Gamma_Delta|=48 |B_Delta|=8
+NORMALIZER N=64 Delta=[ 1, 7, 9, 15, 17, 23, 25, 31, 33, 39, 41, 47, 49, 55, 57, 63 ] h=8 |N(G0)/G0|=96 normalising=96 |D_Delta|=2 |Norm/Gamma_Delta|=192 |B_Delta|=4
+NORMALIZER N=69 Delta=[ 1, 4, 5, 11, 13, 14, 16, 17, 20, 25, 31, 38, 44, 49, 52, 53, 55, 56, 58, 64, 65, 68 ] h=1 |N(G0)/G0|=4 normalising=4 |D_Delta|=2 |Norm/Gamma_Delta|=8 |B_Delta|=8
+NORMALIZER N=72 Delta=[ 1, 5, 19, 23, 25, 29, 43, 47, 49, 53, 67, 71 ] h=6 |N(G0)/G0|=96 normalising=24 |D_Delta|=2 |Norm/Gamma_Delta|=48 |B_Delta|=8
+NORMALIZER N=72 Delta=[ 1, 23, 25, 47, 49, 71 ] h=6 |N(G0)/G0|=96 normalising=24 |D_Delta|=4 |Norm/Gamma_Delta|=96 |B_Delta|=16
+NORMALIZER N=72 Delta=[ 1, 11, 13, 23, 25, 35, 37, 47, 49, 59, 61, 71 ] h=6 |N(G0)/G0|=96 normalising=96 |D_Delta|=2 |Norm/Gamma_Delta|=192 |B_Delta|=8
+NORMALIZER N=75 Delta=[ 1, 14, 16, 29, 31, 44, 46, 59, 61, 74 ] h=1 |N(G0)/G0|=4 normalising=4 |D_Delta|=4 |Norm/Gamma_Delta|=16 |B_Delta|=16
+NORMALIZER N=96 Delta=[ 1, 5, 19, 23, 25, 29, 43, 47, 49, 53, 67, 71, 73, 77, 91, 95 ] h=4 |N(G0)/G0|=64 normalising=64 |D_Delta|=2 |Norm/Gamma_Delta|=128 |B_Delta|=8
+NORMALIZER N=120 Delta=[ 1, 7, 11, 17, 43, 49, 53, 59, 61, 67, 71, 77, 103, 109, 113, 119 ] h=2 |N(G0)/G0|=32 normalising=32 |D_Delta|=2 |Norm/Gamma_Delta|=64 |B_Delta|=16
+NORMALIZER N=128 Delta=[ 1, 7, 9, 15, 17, 23, 25, 31, 33, 39, 41, 47, 49, 55, 57, 63, 65, 71, 73, 79, 81, 87, 89, 95, 97, 103, 105, 111, 113, 119, 121, 127 ] h=8 |N(G0)/G0|=128 normalising=128 |D_Delta|=2 |Norm/Gamma_Delta|=256 |B_Delta|=4
+NORMALIZER N=144 Delta=[ 1, 11, 13, 23, 25, 35, 37, 47, 49, 59, 61, 71, 73, 83, 85, 95, 97, 107, 109, 119, 121, 131, 133, 143 ] h=12 |N(G0)/G0|=288 normalising=288 |D_Delta|=2 |Norm/Gamma_Delta|=576 |B_Delta|=8
+NORMALIZER N=192 Delta=[ 1, 5, 19, 23, 25, 29, 43, 47, 49, 53, 67, 71, 73, 77, 91, 95, 97, 101, 115, 119, 121, 125, 139, 143, 145, 149, 163, 167, 169, 173, 187, 191 ] h=8 |N(G0)/G0|=192 normalising=192 |D_Delta|=2 |Norm/Gamma_Delta|=384 |B_Delta|=8

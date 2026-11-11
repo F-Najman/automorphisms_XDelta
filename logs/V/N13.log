@@ -1,0 +1,6 @@
+LEVEL N=13 discs=[] orbits=4
+VAL N=13 type=[ 0 ] order=1 cond=1 dim=0 cm=[]
+VAL N=13 type=[ 2 ] order=6 cond=13 dim=1 cm=[]
+VAL N=13 type=[ 2 ] order=3 cond=13 dim=0 cm=[]
+VAL N=13 type=[ 3 ] order=2 cond=13 dim=0 cm=[]
+DONE

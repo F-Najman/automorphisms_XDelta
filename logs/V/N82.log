@@ -1,0 +1,8 @@
+LEVEL N=82 discs=[] orbits=6
+VAL N=82 type=[ 0, 0 ] order=1 cond=1 dim=9 cm=[]
+VAL N=82 type=[ 0, 2 ] order=20 cond=41 dim=9 cm=[]
+VAL N=82 type=[ 0, 2 ] order=10 cond=41 dim=8 cm=[]
+VAL N=82 type=[ 0, 2 ] order=5 cond=41 dim=8 cm=[]
+VAL N=82 type=[ 0, 2 ] order=4 cond=41 dim=9 cm=[]
+VAL N=82 type=[ 0, 3 ] order=2 cond=41 dim=8 cm=[]
+DONE

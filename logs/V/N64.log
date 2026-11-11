@@ -1,0 +1,7 @@
+LEVEL N=64 discs=[ 4, 8 ] orbits=5
+VAL N=64 type=[ 0 ] order=1 cond=1 dim=3 cm=[ 3, 0 ]
+VAL N=64 type=[ 8 ] order=16 cond=64 dim=7 cm=[ 0, 0 ]
+VAL N=64 type=[ 6 ] order=8 cond=32 dim=6 cm=[ 0, 0 ]
+VAL N=64 type=[ 4 ] order=4 cond=16 dim=4 cm=[ 0, 0 ]
+VAL N=64 type=[ 2 ] order=2 cond=8 dim=2 cm=[ 0, 2 ]
+DONE

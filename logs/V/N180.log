@@ -1,0 +1,14 @@
+LEVEL N=180 discs=[ 3, 4, 15, 20 ] orbits=12
+VAL N=180 type=[ 0, 0, 0 ] order=1 cond=1 dim=25 cm=[ 2, 0, 0, 0 ]
+VAL N=180 type=[ 1, 4, 0 ] order=6 cond=36 dim=32 cm=[ 0, 0, 0, 0 ]
+VAL N=180 type=[ 0, 4, 0 ] order=3 cond=9 dim=30 cm=[ 0, 0, 0, 0 ]
+VAL N=180 type=[ 1, 3, 0 ] order=2 cond=12 dim=28 cm=[ 0, 4, 0, 0 ]
+VAL N=180 type=[ 1, 0, 2 ] order=4 cond=20 dim=28 cm=[ 0, 6, 0, 0 ]
+VAL N=180 type=[ 0, 4, 2 ] order=12 cond=45 dim=30 cm=[ 0, 0, 0, 0 ]
+VAL N=180 type=[ 1, 4, 2 ] order=12 cond=180 dim=32 cm=[ 0, 0, 0, 0 ]
+VAL N=180 type=[ 0, 3, 2 ] order=4 cond=15 dim=24 cm=[ 0, 0, 0, 0 ]
+VAL N=180 type=[ 0, 0, 3 ] order=2 cond=5 dim=24 cm=[ 0, 0, 6, 0 ]
+VAL N=180 type=[ 1, 4, 3 ] order=6 cond=180 dim=32 cm=[ 0, 0, 0, 4 ]
+VAL N=180 type=[ 0, 4, 3 ] order=6 cond=45 dim=30 cm=[ 0, 0, 0, 0 ]
+VAL N=180 type=[ 1, 3, 3 ] order=2 cond=60 dim=28 cm=[ 0, 4, 8, 8 ]
+DONE

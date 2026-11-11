@@ -1,0 +1,4 @@
+LEVEL N=625 discs=[] orbits=2
+VAL N=625 type=[ 0 ] order=1 cond=1 dim=48 cm=[]
+VAL N=625 type=[ 3 ] order=2 cond=5 dim=48 cm=[]
+DONE

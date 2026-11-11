@@ -1,0 +1,11 @@
+ORBIT N=71 order=1 conductor=1 size=1 dim=6 cmproxy=0
+ORBIT N=71 order=35 conductor=71 size=24 dim=5 cmproxy=0
+ORBIT N=71 order=7 conductor=71 size=6 dim=5 cmproxy=0
+ORBIT N=71 order=5 conductor=71 size=4 dim=5 cmproxy=0
+CHECK N=71 genus(X_1)=176
+DELTA N=71 gens=[ 7 ] idx=1 genus=6 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=71 gens=[ 51 ] idx=5 genus=26 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=71 gens=[ 14 ] idx=7 genus=36 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=71 gens=[ 70 ] idx=35 genus=176 cmproxy=0 C1=true C3_l=2 C3p_l=2 C2=true OK
+SUMMARY N=71 ok=4 fail=0
+DONE

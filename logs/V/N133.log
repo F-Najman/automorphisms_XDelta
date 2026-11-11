@@ -1,0 +1,18 @@
+LEVEL N=133 discs=[ 7, 19 ] orbits=16
+VAL N=133 type=[ 0, 0 ] order=1 cond=1 dim=11 cm=[ 0, 0 ]
+VAL N=133 type=[ 2, 0 ] order=3 cond=7 dim=12 cm=[ 0, 0 ]
+VAL N=133 type=[ 2, 2 ] order=18 cond=133 dim=11 cm=[ 0, 0 ]
+VAL N=133 type=[ 3, 2 ] order=18 cond=133 dim=12 cm=[ 0, 0 ]
+VAL N=133 type=[ 2, 2 ] order=18 cond=133 dim=11 cm=[ 0, 0 ]
+VAL N=133 type=[ 0, 2 ] order=9 cond=19 dim=12 cm=[ 0, 0 ]
+VAL N=133 type=[ 2, 2 ] order=9 cond=133 dim=11 cm=[ 0, 0 ]
+VAL N=133 type=[ 2, 2 ] order=9 cond=133 dim=11 cm=[ 0, 0 ]
+VAL N=133 type=[ 2, 2 ] order=6 cond=133 dim=12 cm=[ 0, 0 ]
+VAL N=133 type=[ 3, 2 ] order=6 cond=133 dim=10 cm=[ 0, 0 ]
+VAL N=133 type=[ 2, 2 ] order=6 cond=133 dim=12 cm=[ 0, 0 ]
+VAL N=133 type=[ 0, 2 ] order=3 cond=19 dim=10 cm=[ 0, 0 ]
+VAL N=133 type=[ 2, 2 ] order=3 cond=133 dim=12 cm=[ 0, 0 ]
+VAL N=133 type=[ 2, 2 ] order=3 cond=133 dim=12 cm=[ 0, 0 ]
+VAL N=133 type=[ 2, 3 ] order=6 cond=133 dim=12 cm=[ 0, 2 ]
+VAL N=133 type=[ 3, 3 ] order=2 cond=133 dim=10 cm=[ 0, 2 ]
+DONE

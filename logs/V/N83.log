@@ -1,0 +1,4 @@
+LEVEL N=83 discs=[ 83 ] orbits=2
+VAL N=83 type=[ 0 ] order=1 cond=1 dim=7 cm=[ 0 ]
+VAL N=83 type=[ 2 ] order=41 cond=83 dim=6 cm=[ 0 ]
+DONE

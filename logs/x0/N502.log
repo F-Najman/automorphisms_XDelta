@@ -1,0 +1,5 @@
+ORBIT N=502 order=1 conductor=1 size=1 dim=62 cmproxy=0
+CHECK N=502 (partial genus, characters of order <= 1) 62
+DELTA N=502 gens=[ 257 ] idx=1 genus=62 cmproxy=0 C1=true C3_l=3 C3p_l=3 C2=false OK
+SUMMARY N=502 ok=1 fail=0
+DONE

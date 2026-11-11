@@ -1,0 +1,10 @@
+LEVEL N=186 discs=[ 3, 31 ] orbits=8
+VAL N=186 type=[ 0, 0, 0 ] order=1 cond=1 dim=29 cm=[ 0, 0 ]
+VAL N=186 type=[ 0, 3, 2 ] order=30 cond=93 dim=28 cm=[ 2, 0 ]
+VAL N=186 type=[ 0, 0, 2 ] order=15 cond=31 dim=28 cm=[ 0, 0 ]
+VAL N=186 type=[ 0, 3, 2 ] order=10 cond=93 dim=28 cm=[ 0, 0 ]
+VAL N=186 type=[ 0, 3, 2 ] order=6 cond=93 dim=28 cm=[ 2, 0 ]
+VAL N=186 type=[ 0, 0, 2 ] order=5 cond=31 dim=28 cm=[ 0, 0 ]
+VAL N=186 type=[ 0, 0, 2 ] order=3 cond=31 dim=28 cm=[ 0, 0 ]
+VAL N=186 type=[ 0, 3, 3 ] order=2 cond=93 dim=28 cm=[ 0, 0 ]
+DONE

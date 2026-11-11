@@ -1,0 +1,14 @@
+ORBIT N=648 order=1 conductor=1 size=1 dim=85 cmproxy=18
+ORBIT N=648 order=2 conductor=8 size=1 dim=96 cmproxy=14
+ORBIT N=648 order=3 conductor=9 size=2 dim=84 cmproxy=8
+ORBIT N=648 order=2 conductor=12 size=1 dim=84 cmproxy=20
+ORBIT N=648 order=2 conductor=24 size=1 dim=96 cmproxy=12
+CHECK N=648 (partial genus, characters of order <= 4) 529
+DELTA N=648 gens=[ 569, 325, 487 ] idx=1 genus=85 cmproxy=18 C1=true C3_l=5 C3p_l=5 C2=false OK
+DELTA N=648 gens=[ 89, 325, 487 ] idx=3 genus=253 cmproxy=34 C1=true C3_l=5 C3p_l=5 C2=true OK
+DELTA N=648 gens=[ 569, 487 ] idx=2 genus=181 cmproxy=32 C1=true C3_l=5 C3p_l=5 C2=true OK
+DELTA N=648 gens=[ 407, 325 ] idx=2 genus=169 cmproxy=38 C1=true C3_l=5 C3p_l=5 C2=true OK
+DELTA N=648 gens=[ 239, 485 ] idx=2 genus=181 cmproxy=30 C1=true C3_l=5 C3p_l=5 C2=true OK
+DELTA N=648 gens=[ 407 ] idx=4 genus=361 cmproxy=64 C1=true C3_l=5 C3p_l=5 C2=true OK
+SUMMARY N=648 ok=6 fail=0
+DONE

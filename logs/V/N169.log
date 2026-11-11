@@ -1,0 +1,10 @@
+LEVEL N=169 discs=[] orbits=8
+VAL N=169 type=[ 0 ] order=1 cond=1 dim=8 cm=[]
+VAL N=169 type=[ 4 ] order=78 cond=169 dim=15 cm=[]
+VAL N=169 type=[ 4 ] order=39 cond=169 dim=14 cm=[]
+VAL N=169 type=[ 4 ] order=26 cond=169 dim=14 cm=[]
+VAL N=169 type=[ 4 ] order=13 cond=169 dim=13 cm=[]
+VAL N=169 type=[ 2 ] order=6 cond=13 dim=9 cm=[]
+VAL N=169 type=[ 2 ] order=3 cond=13 dim=8 cm=[]
+VAL N=169 type=[ 3 ] order=2 cond=13 dim=8 cm=[]
+DONE

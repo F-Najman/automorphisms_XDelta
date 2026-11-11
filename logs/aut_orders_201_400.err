@@ -1,0 +1,4 @@
+curves of genus >= 2: 2948
+curves with normalizer not inside Nor(Gamma_0(N)): 61
+normalizer inside M_Delta for all curves: True
+extra elements only when h_Delta != h(N): True

@@ -1,0 +1,8 @@
+LEVEL N=137 discs=[] orbits=6
+VAL N=137 type=[ 0 ] order=1 cond=1 dim=11 cm=[]
+VAL N=137 type=[ 2 ] order=68 cond=137 dim=11 cm=[]
+VAL N=137 type=[ 2 ] order=34 cond=137 dim=10 cm=[]
+VAL N=137 type=[ 2 ] order=17 cond=137 dim=10 cm=[]
+VAL N=137 type=[ 2 ] order=4 cond=137 dim=11 cm=[]
+VAL N=137 type=[ 3 ] order=2 cond=137 dim=10 cm=[]
+DONE

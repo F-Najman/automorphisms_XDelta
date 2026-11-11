@@ -1,0 +1,8 @@
+LEVEL N=74 discs=[] orbits=6
+VAL N=74 type=[ 0, 0 ] order=1 cond=1 dim=8 cm=[]
+VAL N=74 type=[ 0, 2 ] order=18 cond=37 dim=8 cm=[]
+VAL N=74 type=[ 0, 2 ] order=9 cond=37 dim=7 cm=[]
+VAL N=74 type=[ 0, 2 ] order=6 cond=37 dim=8 cm=[]
+VAL N=74 type=[ 0, 2 ] order=3 cond=37 dim=7 cm=[]
+VAL N=74 type=[ 0, 3 ] order=2 cond=37 dim=8 cm=[]
+DONE

@@ -1,0 +1,6 @@
+LEVEL N=17 discs=[] orbits=4
+VAL N=17 type=[ 0 ] order=1 cond=1 dim=1 cm=[]
+VAL N=17 type=[ 2 ] order=8 cond=17 dim=1 cm=[]
+VAL N=17 type=[ 2 ] order=4 cond=17 dim=0 cm=[]
+VAL N=17 type=[ 3 ] order=2 cond=17 dim=0 cm=[]
+DONE

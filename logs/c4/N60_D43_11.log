@@ -1,0 +1,5 @@
+N=60 Delta=43,11 discs=[ 3, 4, 15, 20 ] primes inert in all CM fields (<=600): [ 11, 59, 71, 131, 179, 191, 239, 251, 311, 359, 419, 431, 479, 491, 599 ]
+ORBIT cond=1 order=1 size=1 dim=7 cmproxy_by_D=[ 0, 0, 0, 0 ]
+ORBIT cond=60 order=2 size=1 dim=8 cmproxy_by_D=[ 0, 0, 4, 4 ]
+C4CHECK N=60 Delta=43,11 Delta'=[ 37, 41, 31 ] index=2 g'=7 cm'(bound)=[ 0, 0, 0, 0 ] cm_complement=[ 0, 0, 4, 4 ] overlapD=[] coprime_any_p=13 coprime_inert_p=179 C1(X_Delta')=true : FULL
+DONE

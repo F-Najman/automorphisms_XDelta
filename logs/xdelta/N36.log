@@ -1,0 +1,10 @@
+ORBIT N=36 order=1 conductor=1 size=1 dim=1 cmproxy=1
+ORBIT N=36 order=6 conductor=36 size=2 dim=4 cmproxy=0
+ORBIT N=36 order=3 conductor=9 size=2 dim=3 cmproxy=0
+ORBIT N=36 order=2 conductor=12 size=1 dim=2 cmproxy=2
+CHECK N=36 genus(X_1)=17
+DELTA N=36 gens=[ 17, 19 ] idx=3 genus=7 cmproxy=1 C1=true C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=36 gens=[ 23 ] idx=2 genus=3 cmproxy=3 C1=false C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=36 gens=[ 35 ] idx=6 genus=17 cmproxy=3 C1=true C3_l=5 C3p_l=5 C2=false OK
+SUMMARY N=36 ok=1 fail=2
+DONE

@@ -1,0 +1,3 @@
+PERDELTA_FAIL N=256 gens=[ 25, 255 ] idx=2 sum=47.000000
+PERDELTA_FAIL N=256 gens=[ 113, 255 ] idx=4 sum=7.0000000
+PERDELTA N=256 subgroups=6 fail=2

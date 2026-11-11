@@ -1,0 +1,6 @@
+LEVEL N=69 discs=[ 3, 23 ] orbits=4
+VAL N=69 type=[ 0, 0 ] order=1 cond=1 dim=7 cm=[ 0, 0 ]
+VAL N=69 type=[ 3, 2 ] order=22 cond=69 dim=6 cm=[ 0, 0 ]
+VAL N=69 type=[ 0, 2 ] order=11 cond=23 dim=6 cm=[ 0, 0 ]
+VAL N=69 type=[ 3, 3 ] order=2 cond=69 dim=6 cm=[ 0, 6 ]
+DONE

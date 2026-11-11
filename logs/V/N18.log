@@ -1,0 +1,4 @@
+LEVEL N=18 discs=[ 3 ] orbits=2
+VAL N=18 type=[ 0, 0 ] order=1 cond=1 dim=0 cm=[ 0 ]
+VAL N=18 type=[ 0, 4 ] order=3 cond=9 dim=1 cm=[ 0 ]
+DONE

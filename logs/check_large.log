@@ -1,0 +1,11 @@
+Uniform bound: theta(11,1) = 0.9742..., max theta(q,e)/theta(q,1) = 0.6856... on the finite range, max{R(2000,2), R(11,26)} < 0.64, product of the factors for p <= 7 below 16, tail below 5e-13.
+Finite set of levels: 2370285 integers, the largest 266378112000
+The interval version of the search gives the same set.
+Exact CM bound: 134 failures (the same for both implementations), 58 of them above 200: 213, 285, 429 and the 55 levels of the paper.
+Checks for each Delta: 63 subgroups with i_Delta in {2, 3, 4} left at 26 levels; the other 29 levels clear.
+The CM bound is at least the dimension of the CM subspace at all levels 11 <= N <= 200 and at 24 levels above 200.
+Scans: all the X_Delta(N) of parts a), b) and c) of the proposition on the scans satisfy a condition (113 levels in c)).
+Each of the 63 subgroups is covered by a scan, as sets of residues.
+N = 6912: g(X_0(6912)) = 1081 and CM bound 236; N = 4608: the two subgroups have genus 1409 and CM bounds 392, 428.
+Magma's Subgroups: compared 518 levels; mismatches: []
+ALL CHECKS PASSED

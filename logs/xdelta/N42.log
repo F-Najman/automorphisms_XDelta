@@ -1,0 +1,11 @@
+ORBIT N=42 order=1 conductor=1 size=1 dim=5 cmproxy=0
+ORBIT N=42 order=6 conductor=21 size=2 dim=4 cmproxy=2
+ORBIT N=42 order=3 conductor=7 size=2 dim=4 cmproxy=0
+ORBIT N=42 order=2 conductor=21 size=1 dim=4 cmproxy=0
+CHECK N=42 genus(X_1)=25
+DELTA N=42 gens=[ 31, 29 ] idx=1 genus=5 cmproxy=0 C1=true C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=42 gens=[ 13, 29 ] idx=3 genus=13 cmproxy=0 C1=true C3_l=5 C3p_l=5 C2=false OK
+DELTA N=42 gens=[ 5 ] idx=2 genus=9 cmproxy=0 C1=true C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=42 gens=[ 41 ] idx=6 genus=25 cmproxy=4 C1=true C3_l=5 C3p_l=5 C2=false OK
+SUMMARY N=42 ok=2 fail=2
+DONE

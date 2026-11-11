@@ -1,0 +1,6 @@
+LEVEL N=66 discs=[ 3, 11 ] orbits=4
+VAL N=66 type=[ 0, 0, 0 ] order=1 cond=1 dim=9 cm=[ 0, 0 ]
+VAL N=66 type=[ 0, 3, 2 ] order=10 cond=33 dim=8 cm=[ 0, 0 ]
+VAL N=66 type=[ 0, 0, 2 ] order=5 cond=11 dim=8 cm=[ 0, 0 ]
+VAL N=66 type=[ 0, 3, 3 ] order=2 cond=33 dim=8 cm=[ 0, 4 ]
+DONE

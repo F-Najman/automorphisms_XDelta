@@ -1,0 +1,10 @@
+LEVEL N=132 discs=[ 3, 4, 11, 132 ] orbits=8
+VAL N=132 type=[ 0, 0, 0 ] order=1 cond=1 dim=19 cm=[ 0, 0, 0, 0 ]
+VAL N=132 type=[ 1, 3, 0 ] order=2 cond=12 dim=20 cm=[ 0, 0, 0, 0 ]
+VAL N=132 type=[ 1, 0, 2 ] order=10 cond=44 dim=20 cm=[ 0, 0, 0, 0 ]
+VAL N=132 type=[ 0, 3, 2 ] order=10 cond=33 dim=18 cm=[ 0, 0, 0, 0 ]
+VAL N=132 type=[ 0, 0, 2 ] order=5 cond=11 dim=18 cm=[ 0, 0, 0, 0 ]
+VAL N=132 type=[ 1, 3, 2 ] order=10 cond=132 dim=20 cm=[ 0, 0, 0, 0 ]
+VAL N=132 type=[ 1, 0, 3 ] order=2 cond=44 dim=20 cm=[ 0, 0, 0, 0 ]
+VAL N=132 type=[ 0, 3, 3 ] order=2 cond=33 dim=18 cm=[ 0, 0, 10, 0 ]
+DONE

@@ -1,0 +1,14 @@
+LEVEL N=183 discs=[ 3, 183 ] orbits=12
+VAL N=183 type=[ 0, 0 ] order=1 cond=1 dim=19 cm=[ 0, 0 ]
+VAL N=183 type=[ 3, 2 ] order=60 cond=183 dim=19 cm=[ 1, 0 ]
+VAL N=183 type=[ 0, 2 ] order=30 cond=61 dim=19 cm=[ 0, 0 ]
+VAL N=183 type=[ 3, 2 ] order=20 cond=183 dim=18 cm=[ 0, 0 ]
+VAL N=183 type=[ 0, 2 ] order=15 cond=61 dim=19 cm=[ 0, 0 ]
+VAL N=183 type=[ 3, 2 ] order=12 cond=183 dim=19 cm=[ 1, 0 ]
+VAL N=183 type=[ 0, 2 ] order=10 cond=61 dim=18 cm=[ 0, 0 ]
+VAL N=183 type=[ 0, 2 ] order=6 cond=61 dim=19 cm=[ 0, 0 ]
+VAL N=183 type=[ 0, 2 ] order=5 cond=61 dim=18 cm=[ 0, 0 ]
+VAL N=183 type=[ 3, 2 ] order=4 cond=183 dim=18 cm=[ 0, 0 ]
+VAL N=183 type=[ 0, 2 ] order=3 cond=61 dim=19 cm=[ 0, 0 ]
+VAL N=183 type=[ 0, 3 ] order=2 cond=61 dim=18 cm=[ 0, 0 ]
+DONE

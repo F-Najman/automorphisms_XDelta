@@ -1,0 +1,8 @@
+LEVEL N=87 discs=[ 3, 87 ] orbits=6
+VAL N=87 type=[ 0, 0 ] order=1 cond=1 dim=9 cm=[ 0, 0 ]
+VAL N=87 type=[ 3, 2 ] order=28 cond=87 dim=8 cm=[ 0, 0 ]
+VAL N=87 type=[ 0, 2 ] order=14 cond=29 dim=8 cm=[ 0, 0 ]
+VAL N=87 type=[ 0, 2 ] order=7 cond=29 dim=8 cm=[ 0, 0 ]
+VAL N=87 type=[ 3, 2 ] order=4 cond=87 dim=8 cm=[ 0, 0 ]
+VAL N=87 type=[ 0, 3 ] order=2 cond=29 dim=8 cm=[ 0, 0 ]
+DONE

@@ -1,0 +1,10 @@
+ORBIT N=24 order=1 conductor=1 size=1 dim=1 cmproxy=0
+ORBIT N=24 order=2 conductor=8 size=1 dim=2 cmproxy=0
+ORBIT N=24 order=2 conductor=12 size=1 dim=0 cmproxy=0
+ORBIT N=24 order=2 conductor=24 size=1 dim=2 cmproxy=2
+CHECK N=24 genus(X_1)=5
+DELTA N=24 gens=[ 17, 7 ] idx=2 genus=3 cmproxy=0 C1=true C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=24 gens=[ 23, 5 ] idx=2 genus=3 cmproxy=2 C1=false C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=24 gens=[ 23 ] idx=4 genus=5 cmproxy=2 C1=false C3_l=0 C3p_l=0 C2=false FAIL
+SUMMARY N=24 ok=0 fail=3
+DONE

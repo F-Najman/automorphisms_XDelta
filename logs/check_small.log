@@ -1,0 +1,11 @@
+Scans of 13 <= N <= 200: 1449 curves of genus >= 2, 1362 satisfy a condition, 87 do not: 37 curves X_0(N), 8 curves X_1(N) and 42 others.
+The curves of levels 37, 63 and 108 that fail are X_0(37), X_0(63), X_0(108), X_{<8>}(37) and X_{<59,37>}(63).
+Table 1: the 42 rows are exactly the other failing curves, with the same i_Delta and g_Delta.
+  N=128: condition b) with dim S <= 7, g_Delta = 17
+  N=144: condition b) with dim S <= 8, g_Delta = 25
+Table 1: the 30 computed numbers agree with canon2.m, t4.m and review_xdelta63.m; the modular automorphisms agree with normalizer.m (except N = 49, 50) and with Section 10; the 12 descent rows satisfy a) or b).
+X_1(N), N in {13, 16, 18, 20, 21, 22, 24, 30}: #Aut equals the number of modular automorphisms.
+Level 37: the class of (0_i) - (0_1) has order 21 modulo 3, 5, 7, 11 and 13.
+Square-free N <= 70: some w_Q does not normalize Gamma_Delta(N) first for N = 65.
+Section 10: 4397 curves with N <= 400 (1449 with N <= 200), every normalizing matrix in M_Delta; 58 curves with h_Delta != h(N), 28 of them in Table 2, which agrees with the computation.
+ALL CHECKS PASSED

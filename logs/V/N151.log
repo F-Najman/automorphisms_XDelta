@@ -1,0 +1,8 @@
+LEVEL N=151 discs=[ 151 ] orbits=6
+VAL N=151 type=[ 0 ] order=1 cond=1 dim=12 cm=[ 0 ]
+VAL N=151 type=[ 2 ] order=75 cond=151 dim=12 cm=[ 0 ]
+VAL N=151 type=[ 2 ] order=25 cond=151 dim=11 cm=[ 0 ]
+VAL N=151 type=[ 2 ] order=15 cond=151 dim=12 cm=[ 0 ]
+VAL N=151 type=[ 2 ] order=5 cond=151 dim=11 cm=[ 0 ]
+VAL N=151 type=[ 2 ] order=3 cond=151 dim=12 cm=[ 0 ]
+DONE

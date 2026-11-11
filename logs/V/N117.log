@@ -1,0 +1,17 @@
+LEVEL N=117 discs=[ 3, 39 ] orbits=15
+VAL N=117 type=[ 0, 0 ] order=1 cond=1 dim=11 cm=[ 0, 0 ]
+VAL N=117 type=[ 4, 0 ] order=3 cond=9 dim=12 cm=[ 0, 0 ]
+VAL N=117 type=[ 4, 2 ] order=12 cond=117 dim=12 cm=[ 0, 0 ]
+VAL N=117 type=[ 3, 2 ] order=12 cond=39 dim=10 cm=[ 2, 0 ]
+VAL N=117 type=[ 4, 2 ] order=12 cond=117 dim=12 cm=[ 0, 0 ]
+VAL N=117 type=[ 0, 2 ] order=6 cond=13 dim=10 cm=[ 1, 0 ]
+VAL N=117 type=[ 4, 2 ] order=6 cond=117 dim=12 cm=[ 0, 0 ]
+VAL N=117 type=[ 4, 2 ] order=6 cond=117 dim=12 cm=[ 0, 0 ]
+VAL N=117 type=[ 4, 2 ] order=12 cond=117 dim=12 cm=[ 0, 0 ]
+VAL N=117 type=[ 3, 2 ] order=4 cond=39 dim=10 cm=[ 0, 0 ]
+VAL N=117 type=[ 0, 2 ] order=3 cond=13 dim=10 cm=[ 1, 0 ]
+VAL N=117 type=[ 4, 2 ] order=3 cond=117 dim=12 cm=[ 0, 0 ]
+VAL N=117 type=[ 4, 2 ] order=3 cond=117 dim=12 cm=[ 0, 0 ]
+VAL N=117 type=[ 0, 3 ] order=2 cond=13 dim=10 cm=[ 0, 4 ]
+VAL N=117 type=[ 4, 3 ] order=6 cond=117 dim=12 cm=[ 0, 0 ]
+DONE

@@ -1,0 +1,11 @@
+ORBIT N=81 order=1 conductor=1 size=1 dim=4 cmproxy=2
+ORBIT N=81 order=27 conductor=81 size=18 dim=8 cmproxy=0
+ORBIT N=81 order=9 conductor=27 size=6 dim=6 cmproxy=0
+ORBIT N=81 order=3 conductor=9 size=2 dim=3 cmproxy=1
+CHECK N=81 genus(X_1)=190
+DELTA N=81 gens=[ 2 ] idx=1 genus=4 cmproxy=2 C1=false C3_l=0 C3p_l=0 C2=false FAIL
+DELTA N=81 gens=[ 8 ] idx=3 genus=10 cmproxy=4 C1=true C3_l=2 C3p_l=2 C2=false OK
+DELTA N=81 gens=[ 26 ] idx=9 genus=46 cmproxy=4 C1=true C3_l=2 C3p_l=2 C2=true OK
+DELTA N=81 gens=[ 80 ] idx=27 genus=190 cmproxy=4 C1=true C3_l=2 C3p_l=2 C2=true OK
+SUMMARY N=81 ok=3 fail=1
+DONE
